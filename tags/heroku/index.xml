@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Heroku on Helve Tech Blog</title>
+    <link>https://helve2017.github.io/tags/heroku/</link>
+    <description>Recent content in Heroku on Helve Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2019-{year} Helve</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://helve2017.github.io/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>可視化ツールDashで作成したWebアプリをHerokuで公開する</title>
+        <link>https://helve2017.github.io/posts/web-technology/heroku-dash-deploy/</link>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Fri, 01 Jan 2021 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/web-technology/heroku-dash-deploy/</guid>
+        <description>はじめに Dashはインタラクティブなグラフを表示できる、PythonのWebアプリケーションフレームワークである。flaskをバックエンドに</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/heroku.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Heroku</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Dash</category>
+            
+          
+        
+        
+          
+            
+              <category>Web技術</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

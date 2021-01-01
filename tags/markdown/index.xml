@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Markdown on Helve Tech Blog</title>
+    <link>https://helve2017.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Helve Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2019-{year} Helve</copyright>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://helve2017.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>AtomとMarkdownで技術文書を書く</title>
+        <link>https://helve2017.github.io/posts/text-editor/atom-markdown/</link>
+        <pubDate>Tue, 22 Dec 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/text-editor/atom-markdown/</guid>
+        <description>はじめに 本記事では、Atomを使って以下の技術文書をmarkdownで書くための環境設定方法を示す。 数式を記述できる 図、表に自動で番号を振る</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/atom.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Atom</category>
+            
+          
+            
+              <category>Markdown</category>
+            
+          
+        
+        
+          
+            
+              <category>テキストエディタ</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

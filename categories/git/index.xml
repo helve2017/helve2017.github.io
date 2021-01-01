@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Git on Helve Tech Blog</title>
+    <link>https://helve2017.github.io/categories/git/</link>
+    <description>Recent content in Git on Helve Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2019-{year} Helve</copyright>
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://helve2017.github.io/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Gitコマンドの個人的まとめ（ブランチ利用なし）</title>
+        <link>https://helve2017.github.io/posts/git/git-commands/</link>
+        <pubDate>Wed, 30 Dec 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Wed, 30 Dec 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/git/git-commands/</guid>
+        <description>はじめに 個人的によく使用するGitのコマンドをまとめた。なお、個人利用かつ小規模なソフトウェア開発環境であり、ブランチは作成しないため、それ</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/git.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

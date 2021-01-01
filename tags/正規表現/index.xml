@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>正規表現 on Helve Tech Blog</title>
+    <link>https://helve2017.github.io/tags/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE/</link>
+    <description>Recent content in 正規表現 on Helve Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2019-{year} Helve</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://helve2017.github.io/tags/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Pythonのreモジュールを使った正規表現の基本</title>
+        <link>https://helve2017.github.io/posts/python/python-regular-expression/</link>
+        <pubDate>Wed, 16 Dec 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Wed, 16 Dec 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/python/python-regular-expression/</guid>
+        <description>はじめに Pythonのreモジュールの基本的な使い方をまとめた。また、正規表現を扱うために便利なraw文字列、および正規表現についても簡単に</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>正規表現</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

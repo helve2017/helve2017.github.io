@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Chainer on Helve Tech Blog</title>
+    <link>https://helve2017.github.io/tags/chainer/</link>
+    <description>Recent content in Chainer on Helve Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2019-{year} Helve</copyright>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://helve2017.github.io/tags/chainer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Chainerの自動微分で勾配を求める（補足）</title>
+        <link>https://helve2017.github.io/posts/python/chainer-automatic-differentiation2/</link>
+        <pubDate>Sat, 12 Dec 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 12 Dec 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/python/chainer-automatic-differentiation2/</guid>
+        <description>はじめに ChainerのVariableクラスを使った自動微分に関する記事である。前回記事の補足として、backwardメソッドを使用すると</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Chainer</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Chainerの自動微分で勾配を求める</title>
+        <link>https://helve2017.github.io/posts/python/chainer-automatic-differentiation/</link>
+        <pubDate>Fri, 11 Dec 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Fri, 11 Dec 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/python/chainer-automatic-differentiation/</guid>
+        <description>はじめに 本記事では、ChainerのVariableクラスについて簡単に解説し、1階微分、2階微分の求め方についてまとめる。 自動微分を使うと</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Chainer</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>ChainerのIteratorクラスによる学習用ミニバッチ作成</title>
+        <link>https://helve2017.github.io/posts/python/chainer-iterator-class/</link>
+        <pubDate>Thu, 19 Nov 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Thu, 19 Nov 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/python/chainer-iterator-class/</guid>
+        <description>はじめに 前回の記事で、ChainerのChainクラスとOptimizerを使って最小限のニューラルネットワーク (NN) を実装した。今回は、データ</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Chainer</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Chainer入門 最小限のニューラルネットワーク実装</title>
+        <link>https://helve2017.github.io/posts/python/chainer-introduction/</link>
+        <pubDate>Wed, 18 Nov 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Wed, 18 Nov 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/python/chainer-introduction/</guid>
+        <description>はじめに ディープラーニング用のライブラリChainerの使い方を理解するため、ChainerのChainクラスとOptimizerを使って最</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Chainer</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

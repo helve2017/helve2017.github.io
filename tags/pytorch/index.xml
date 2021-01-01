@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>PyTorch on Helve Tech Blog</title>
+    <link>https://helve2017.github.io/tags/pytorch/</link>
+    <description>Recent content in PyTorch on Helve Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2019-{year} Helve</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://helve2017.github.io/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>PyTorchの自動微分で勾配を求める</title>
+        <link>https://helve2017.github.io/posts/python/pytorch-automatic-differentiation/</link>
+        <pubDate>Sun, 13 Dec 2020 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 13 Dec 2020 00:00:00 +0900</atom:modified>
+        <guid>https://helve2017.github.io/posts/python/pytorch-automatic-differentiation/</guid>
+        <description>はじめに ディープラーニングのライブラリの1つであるPyTorchには、自動微分の機能が実装されている。 自動微分を使うと、関数の勾配ベクトルを</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve2017.github.ioimages/icon/pytorch.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>PyTorch</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
