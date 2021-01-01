@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Matplotlib on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/tags/matplotlib/</link>
+    <link>https://helve-blog.com/tags/matplotlib/</link>
     <description>Recent content in Matplotlib on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>Matplotlib スタイルによるグラフの見た目の変更</title>
-        <link>https://helve2017.github.io/posts/python/matplotlib-object-oriented-style/</link>
+        <link>https://helve-blog.com/posts/python/matplotlib-object-oriented-style/</link>
         <pubDate>Sat, 14 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Sat, 14 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/matplotlib-object-oriented-style/</guid>
+        <guid>https://helve-blog.com/posts/python/matplotlib-object-oriented-style/</guid>
         <description>はじめに matplotlibにはスタイルと呼ばれる、グラフの見た目を変更できるプリセットが用意されている。 スタイルを活用することで、グラフの</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -56,15 +56,15 @@
       
       <item>
         <title>Matplotlibのオブジェクト指向なカラーバーの表示</title>
-        <link>https://helve2017.github.io/posts/python/matplotlib-object-oriented-colorbar/</link>
+        <link>https://helve-blog.com/posts/python/matplotlib-object-oriented-colorbar/</link>
         <pubDate>Fri, 13 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Fri, 13 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/matplotlib-object-oriented-colorbar/</guid>
+        <guid>https://helve-blog.com/posts/python/matplotlib-object-oriented-colorbar/</guid>
         <description>はじめに matplotlibライブラリで作成したヒートマップや等高線図のカラーバーを、オブジェクト指向スタイルで調整する。 オブジェクト指向に</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -90,15 +90,15 @@
       
       <item>
         <title>Matplotlibのオブジェクト指向な対数軸プロット</title>
-        <link>https://helve2017.github.io/posts/python/matplotlib-object-oriented-logarithmic-graph/</link>
+        <link>https://helve-blog.com/posts/python/matplotlib-object-oriented-logarithmic-graph/</link>
         <pubDate>Thu, 12 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Thu, 12 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/matplotlib-object-oriented-logarithmic-graph/</guid>
+        <guid>https://helve-blog.com/posts/python/matplotlib-object-oriented-logarithmic-graph/</guid>
         <description>はじめに matplotlibライブラリで作成したグラフの軸を、オブジェクト指向スタイルで対数に変更する。 オブジェクト指向によるグラフの描画は</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -124,15 +124,15 @@
       
       <item>
         <title>Matplotlibでオブジェクト指向なグラフの調整</title>
-        <link>https://helve2017.github.io/posts/python/matplotlib-object-oriented-figure-adjustment/</link>
+        <link>https://helve-blog.com/posts/python/matplotlib-object-oriented-figure-adjustment/</link>
         <pubDate>Tue, 10 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Tue, 10 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/matplotlib-object-oriented-figure-adjustment/</guid>
+        <guid>https://helve-blog.com/posts/python/matplotlib-object-oriented-figure-adjustment/</guid>
         <description>はじめに matplotlibライブラリで作成したグラフをオブジェクト指向スタイルで調整する。 matplotlibの基本的なオブジェクトとグラ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -158,15 +158,15 @@
       
       <item>
         <title>Matplotlibでオブジェクト指向なグラフ作成</title>
-        <link>https://helve2017.github.io/posts/python/matplotlib-object-oriented-figure-construction/</link>
+        <link>https://helve-blog.com/posts/python/matplotlib-object-oriented-figure-construction/</link>
         <pubDate>Mon, 09 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Mon, 09 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/matplotlib-object-oriented-figure-construction/</guid>
+        <guid>https://helve-blog.com/posts/python/matplotlib-object-oriented-figure-construction/</guid>
         <description>はじめに matplotlibライブラリを用いて、オブジェクト指向スタイルでグラフを作成する。 環境 ソフトウェア バージョン spyder 3.2.3 python 3.6.2 matplotlib 2.0.2 matpl</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/matplotlib.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

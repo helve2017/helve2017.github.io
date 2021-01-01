@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>NumPy on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/tags/numpy/</link>
+    <link>https://helve-blog.com/tags/numpy/</link>
     <description>Recent content in NumPy on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/tags/numpy/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>NumPyのemptyで空（長さ0）の配列を作る</title>
-        <link>https://helve2017.github.io/posts/python/numpy-empty-array/</link>
+        <link>https://helve-blog.com/posts/python/numpy-empty-array/</link>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Mon, 16 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-empty-array/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-empty-array/</guid>
         <description>はじめに NumPyのempty関数を用いて、np.empty(0), np.empty([0, 0]), &amp;hellip;とすることで、空の（要素を持たない）任意の次元の配列</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -56,15 +56,15 @@
       
       <item>
         <title>NumPyを使った高速フーリエ変換による周波数解析</title>
-        <link>https://helve2017.github.io/posts/python/numpy-fast-fourier-transform/</link>
+        <link>https://helve-blog.com/posts/python/numpy-fast-fourier-transform/</link>
         <pubDate>Sun, 15 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Sun, 15 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-fast-fourier-transform/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-fast-fourier-transform/</guid>
         <description>はじめに NumPyのfftパッケージを使って、FFT (Fast Fourier Transform, 高速フーリエ変換) による離散信号の周波数解析を行い、信号の振幅を求める。 環境 ソフト</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -90,15 +90,15 @@
       
       <item>
         <title>NumPyで使える統計の関数</title>
-        <link>https://helve2017.github.io/posts/python/numpy-statistics-function/</link>
+        <link>https://helve-blog.com/posts/python/numpy-statistics-function/</link>
         <pubDate>Fri, 06 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Fri, 06 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-statistics-function/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-statistics-function/</guid>
         <description>はじめに NumPyで利用できる統計の関数について。 環境 ソフトウェア バージョン NumPy 1.19 最大・最小 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 &amp;gt;&amp;gt;&amp;gt;</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -124,15 +124,15 @@
       
       <item>
         <title>NumPyで使える数学の関数</title>
-        <link>https://helve2017.github.io/posts/python/numpy-math-function/</link>
+        <link>https://helve-blog.com/posts/python/numpy-math-function/</link>
         <pubDate>Thu, 05 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Thu, 05 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-math-function/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-math-function/</guid>
         <description>はじめに NumPyで利用できる数学の関数について。 mathライブラリの数学の関数は、一般にスカラー値にしか適用できない。一方、NumPyの数</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -158,15 +158,15 @@
       
       <item>
         <title>NumPy配列の演算</title>
-        <link>https://helve2017.github.io/posts/python/numpy-array-calculation/</link>
+        <link>https://helve-blog.com/posts/python/numpy-array-calculation/</link>
         <pubDate>Wed, 04 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Wed, 04 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-array-calculation/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-array-calculation/</guid>
         <description>はじめに NumPy配列の四則演算と線形代数学の演算について。 環境 ソフトウェア バージョン NumPy 1.19 基本的な四則演算 NumPy配列同士の四則演算は、P</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -192,15 +192,15 @@
       
       <item>
         <title>NumPy配列の操作</title>
-        <link>https://helve2017.github.io/posts/python/numpy-array-manipulation/</link>
+        <link>https://helve-blog.com/posts/python/numpy-array-manipulation/</link>
         <pubDate>Tue, 03 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Tue, 03 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-array-manipulation/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-array-manipulation/</guid>
         <description>はじめに NumPy配列のコピーや次元の結合、結合・分割、ソートについて。 環境 ソフトウェア バージョン NumPy 1.19 配列のコピー =でコピーすると、コピー元</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -226,15 +226,15 @@
       
       <item>
         <title>NumPy配列の確認</title>
-        <link>https://helve2017.github.io/posts/python/numpy-array-check/</link>
+        <link>https://helve-blog.com/posts/python/numpy-array-check/</link>
         <pubDate>Mon, 02 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Mon, 02 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-array-check/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-array-check/</guid>
         <description>はじめに 作成したNumPy配列の要素などを確認する。 環境 ソフトウェア バージョン NumPy 1.19 配列の属性 作成した配列の次元数を確認する場合、 ndim属性</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -260,15 +260,15 @@
       
       <item>
         <title>NumPyによる配列の作成</title>
-        <link>https://helve2017.github.io/posts/python/numpy-array-construction/</link>
+        <link>https://helve-blog.com/posts/python/numpy-array-construction/</link>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Sun, 01 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/numpy-array-construction/</guid>
+        <guid>https://helve-blog.com/posts/python/numpy-array-construction/</guid>
         <description>はじめに NumPyを使って基本的な配列や線形代数学でよく使われる配列を生成する。 環境 ソフトウェア バージョン NumPy 1.19 基本的な配列の作成 NumPyは</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

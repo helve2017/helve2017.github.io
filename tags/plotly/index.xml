@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Plotly on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/tags/plotly/</link>
+    <link>https://helve-blog.com/tags/plotly/</link>
     <description>Recent content in Plotly on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Wed, 01 May 2019 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/tags/plotly/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/tags/plotly/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>Plotlyのインタラクティブなグラフをブログ等に埋め込む</title>
-        <link>https://helve2017.github.io/posts/python/plotly-embedding/</link>
+        <link>https://helve-blog.com/posts/python/plotly-embedding/</link>
         <pubDate>Wed, 01 May 2019 00:00:00 +0900</pubDate>
         
         <atom:modified>Wed, 01 May 2019 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/plotly-embedding/</guid>
+        <guid>https://helve-blog.com/posts/python/plotly-embedding/</guid>
         <description>はじめに Plotlyは、マウス等でインタラクティブに動かすことができるグラフを生成するPythonのライブラリである。 このようなグラフをブロ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/plotly.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/plotly.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

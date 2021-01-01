@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>次元削減 on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/tags/%E6%AC%A1%E5%85%83%E5%89%8A%E6%B8%9B/</link>
+    <link>https://helve-blog.com/tags/%E6%AC%A1%E5%85%83%E5%89%8A%E6%B8%9B/</link>
     <description>Recent content in 次元削減 on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/tags/%E6%AC%A1%E5%85%83%E5%89%8A%E6%B8%9B/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/tags/%E6%AC%A1%E5%85%83%E5%89%8A%E6%B8%9B/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,11 +22,11 @@
       
       <item>
         <title>LLE (Locally Linear Embedding) による非線形データの次元削減</title>
-        <link>https://helve2017.github.io/posts/math/locally-linear-embedding/</link>
+        <link>https://helve-blog.com/posts/math/locally-linear-embedding/</link>
         <pubDate>Wed, 09 Dec 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Wed, 09 Dec 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/math/locally-linear-embedding/</guid>
+        <guid>https://helve-blog.com/posts/math/locally-linear-embedding/</guid>
         <description>はじめに 次元削減 (dimensionality reduction) とは、データの構造をなるべく保ったまま、特徴量の数を減らすことである。 特徴量の数を減らすことにより、機械学習を高速に実行</description>
         
         <dc:creator>Helve</dc:creator>

@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>book on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/publication/book/</link>
+    <link>https://helve-blog.com/publication/book/</link>
     <description>Recent content in book on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/publication/book/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/publication/book/index.xml" rel="self" type="application/rss+xml" />
     
     
     

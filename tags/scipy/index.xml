@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>SciPy on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/tags/scipy/</link>
+    <link>https://helve-blog.com/tags/scipy/</link>
     <description>Recent content in SciPy on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/tags/scipy/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/tags/scipy/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>SciPyを使ったFIRフィルタによる波形整形</title>
-        <link>https://helve2017.github.io/posts/python/scipy-finite-impulse-response-filter/</link>
+        <link>https://helve-blog.com/posts/python/scipy-finite-impulse-response-filter/</link>
         <pubDate>Tue, 17 Nov 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Tue, 17 Nov 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/scipy-finite-impulse-response-filter/</guid>
+        <guid>https://helve-blog.com/posts/python/scipy-finite-impulse-response-filter/</guid>
         <description>はじめに SciPyを使って、FIR (Finite Impulse Response, 有限インパルス応答) フィルタによる離散信号の波形を整形する。ローパス、ハイパス、バンドパス、バンドエ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/scipy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/scipy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

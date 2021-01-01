@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Heroku on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/tags/heroku/</link>
+    <link>https://helve-blog.com/tags/heroku/</link>
     <description>Recent content in Heroku on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>可視化ツールDashで作成したWebアプリをHerokuで公開する</title>
-        <link>https://helve2017.github.io/posts/web-technology/heroku-dash-deploy/</link>
+        <link>https://helve-blog.com/posts/web-technology/heroku-dash-deploy/</link>
         <pubDate>Fri, 01 Jan 2021 00:00:00 +0900</pubDate>
         
         <atom:modified>Fri, 01 Jan 2021 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/web-technology/heroku-dash-deploy/</guid>
+        <guid>https://helve-blog.com/posts/web-technology/heroku-dash-deploy/</guid>
         <description>はじめに Dashはインタラクティブなグラフを表示できる、PythonのWebアプリケーションフレームワークである。flaskをバックエンドに</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/heroku.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/heroku.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

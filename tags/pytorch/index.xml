@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>PyTorch on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/tags/pytorch/</link>
+    <link>https://helve-blog.com/tags/pytorch/</link>
     <description>Recent content in PyTorch on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>PyTorchの自動微分で勾配を求める</title>
-        <link>https://helve2017.github.io/posts/python/pytorch-automatic-differentiation/</link>
+        <link>https://helve-blog.com/posts/python/pytorch-automatic-differentiation/</link>
         <pubDate>Sun, 13 Dec 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Sun, 13 Dec 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/python/pytorch-automatic-differentiation/</guid>
+        <guid>https://helve-blog.com/posts/python/pytorch-automatic-differentiation/</guid>
         <description>はじめに ディープラーニングのライブラリの1つであるPyTorchには、自動微分の機能が実装されている。 自動微分を使うと、関数の勾配ベクトルを</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/pytorch.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/pytorch.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

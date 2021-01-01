@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>C Sharp on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/categories/c-sharp/</link>
+    <link>https://helve-blog.com/categories/c-sharp/</link>
     <description>Recent content in C Sharp on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Fri, 25 Dec 2020 12:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/categories/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/categories/c-sharp/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>C#のstring型で文字列を扱う</title>
-        <link>https://helve2017.github.io/posts/csharp/csharp-string/</link>
+        <link>https://helve-blog.com/posts/csharp/csharp-string/</link>
         <pubDate>Fri, 25 Dec 2020 12:00:00 +0900</pubDate>
         
         <atom:modified>Fri, 25 Dec 2020 12:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/csharp/csharp-string/</guid>
+        <guid>https://helve-blog.com/posts/csharp/csharp-string/</guid>
         <description>はじめに C#ではstring型を使って文字列を扱うことができる。 本記事ではstringオブジェクトのプロパティとメソッド、および文字列と数値</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -56,15 +56,15 @@
       
       <item>
         <title>Pythonプログラマから見たC#</title>
-        <link>https://helve2017.github.io/posts/csharp/python-to-csharp/</link>
+        <link>https://helve-blog.com/posts/csharp/python-to-csharp/</link>
         <pubDate>Fri, 25 Dec 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Fri, 25 Dec 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/csharp/python-to-csharp/</guid>
+        <guid>https://helve-blog.com/posts/csharp/python-to-csharp/</guid>
         <description>はじめに 普段はPythonを使っているが、C#を勉強することになったので、 Pythonプログラマから見た相違点を備忘録として残す。 比較した言</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

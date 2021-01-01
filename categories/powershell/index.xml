@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>PowerShell on Helve Tech Blog</title>
-    <link>https://helve2017.github.io/categories/powershell/</link>
+    <link>https://helve-blog.com/categories/powershell/</link>
     <description>Recent content in PowerShell on Helve Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
     <lastBuildDate>Sat, 26 Dec 2020 16:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://helve2017.github.io/categories/powershell/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://helve-blog.com/categories/powershell/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,15 +22,15 @@
       
       <item>
         <title>Powershellでプロセスのメモリ使用量をロギングする</title>
-        <link>https://helve2017.github.io/posts/powershell/powershell-memory-usage-logging/</link>
+        <link>https://helve-blog.com/posts/powershell/powershell-memory-usage-logging/</link>
         <pubDate>Sat, 26 Dec 2020 16:00:00 +0900</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 16:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/powershell/powershell-memory-usage-logging/</guid>
+        <guid>https://helve-blog.com/posts/powershell/powershell-memory-usage-logging/</guid>
         <description>はじめに PowerShellのGet-Processコマンドレットを使って、特定のプロセスのメモリ使用量を一定周期でロギングするコードを作成</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -52,15 +52,15 @@
       
       <item>
         <title>Powershellでファイル名に連番を振ってリネームする</title>
-        <link>https://helve2017.github.io/posts/powershell/powershell-rename-files-serial-number/</link>
+        <link>https://helve-blog.com/posts/powershell/powershell-rename-files-serial-number/</link>
         <pubDate>Sat, 26 Dec 2020 08:00:00 +0900</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 08:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/powershell/powershell-rename-files-serial-number/</guid>
+        <guid>https://helve-blog.com/posts/powershell/powershell-rename-files-serial-number/</guid>
         <description>はじめに Poweshellを使って、フォルダ内のファイルに連番を振ってリネームする方法をまとめた。現在のファイル名の順に連番を振る場合、以下</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -82,15 +82,15 @@
       
       <item>
         <title>PowerShellでサブフォルダにあるファイル名を一覧表示する</title>
-        <link>https://helve2017.github.io/posts/powershell/powershell-get-childitem/</link>
+        <link>https://helve-blog.com/posts/powershell/powershell-get-childitem/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0900</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 00:00:00 +0900</atom:modified>
-        <guid>https://helve2017.github.io/posts/powershell/powershell-get-childitem/</guid>
+        <guid>https://helve-blog.com/posts/powershell/powershell-get-childitem/</guid>
         <description>はじめに PowerShellでサブフォルダを含むファイル名を一覧表示するには、Get-ChildItem -Recurse -Name -Fileを実行する。さらに、フ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve2017.github.ioimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.comimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
