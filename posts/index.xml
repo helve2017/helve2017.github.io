@@ -12,13 +12,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>はてなブログからHugoに移行した理由</title>
+        <link>https://helve-blog.com/posts/web-technology/migration-hatena-hugo/</link>
+        <pubDate>Sun, 03 Jan 2021 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 03 Jan 2021 00:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/web-technology/migration-hatena-hugo/</guid>
+        <description>はじめに 独自ドメインで格安にブログを運営するため、無料版はてなブログからHugoに移行した。ホスティングサービスにGithub Pagesを利</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.comimages/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Web技術</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>可視化ツールDashで作成したWebアプリをPythonAnywhere上で公開する</title>
