@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,34 @@
         
       
 
+      
+      <item>
+        <title>お問い合わせ</title>
+        <link>https://helve-blog.com/posts/manage/contact/</link>
+        <pubDate>Tue, 05 Jan 2021 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Tue, 05 Jan 2021 00:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/manage/contact/</guid>
+        <description>はじめに サイト全般に関するご質問はこちらからお願いします（Googleフォームを使用しています）。 個々の記事に関するご質問・感想は、そのペー</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>サイト運営</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Hugoでよく使うコマンド一覧</title>

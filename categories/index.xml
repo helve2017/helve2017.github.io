@@ -12,13 +12,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>サイト運営</title>
+        <link>https://helve-blog.com/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E5%96%B6/</link>
+        <pubDate>Tue, 05 Jan 2021 00:00:00 +0900</pubDate>
+        
+        
+        <guid>https://helve-blog.com/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E5%96%B6/</guid>
+        <description></description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Web技術</title>
