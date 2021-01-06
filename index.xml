@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,36 @@
         
       
 
+      
+      <item>
+        <title>Hugoサイトに最新版のGoogle Analyticsのタグを埋め込む</title>
+        <link>https://helve-blog.com/posts/web-technology/hugo-google-analytics-tag/</link>
+        <pubDate>Wed, 06 Jan 2021 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Wed, 06 Jan 2021 00:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/web-technology/hugo-google-analytics-tag/</guid>
+        <description>はじめに Hugoで生成するサイトでアクセス数を測定するためには、Google Analytics (以下GAとする) などの外部サービスを利用する必要がある。この</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.comimages/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Web技術</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>お問い合わせ</title>
