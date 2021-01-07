@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,36 @@
         
       
 
+      
+      <item>
+        <title>HugoとZZoテーマで使えるKaTeX数式サンプル</title>
+        <link>https://helve-blog.com/posts/web-technology/hugo-zzo-katex/</link>
+        <pubDate>Thu, 07 Jan 2021 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Thu, 07 Jan 2021 00:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/web-technology/hugo-zzo-katex/</guid>
+        <description>はじめに HugoとZZoテーマでKaTeXにより数式を描画する方法・注意点、およびサンプルをまとめた。Hugoのバージョンは0.79.0/e</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.comimages/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Web技術</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Hugoサイトに最新版のGoogle Analyticsのタグを埋め込む</title>
