@@ -4,12 +4,42 @@
   
   <url>
     <loc>https://helve-blog.com/categories/</loc>
-    <lastmod>2021-01-09T00:00:00+09:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://helve-blog.com/</loc>
-    <lastmod>2021-01-09T00:00:00+09:00</lastmod>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/posts/</loc>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/tags/python/</loc>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/categories/python/</loc>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/tags/scikit-learn/</loc>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/posts/python/scikit-learn-polynomialfeatures/</loc>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/tags/</loc>
+    <lastmod>2021-01-11T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -19,16 +49,6 @@
   
   <url>
     <loc>https://helve-blog.com/posts/web-technology/hugo-contact-form/</loc>
-    <lastmod>2021-01-09T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://helve-blog.com/posts/</loc>
-    <lastmod>2021-01-09T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://helve-blog.com/tags/</loc>
     <lastmod>2021-01-09T00:00:00+09:00</lastmod>
   </url>
   
@@ -73,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://helve-blog.com/tags/python/</loc>
-    <lastmod>2021-01-02T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://helve-blog.com/tags/pythonanywhere/</loc>
     <lastmod>2021-01-02T00:00:00+09:00</lastmod>
   </url>
@@ -95,11 +110,6 @@
   <url>
     <loc>https://helve-blog.com/posts/web-technology/heroku-dash-deploy/</loc>
     <lastmod>2021-01-01T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://helve-blog.com/categories/python/</loc>
-    <lastmod>2020-12-31T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -374,11 +384,6 @@
   
   <url>
     <loc>https://helve-blog.com/posts/python/sklearn-bagging-classifier-example/</loc>
-    <lastmod>2020-12-07T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://helve-blog.com/tags/scikit-learn/</loc>
     <lastmod>2020-12-07T00:00:00+09:00</lastmod>
   </url>
   

@@ -12,13 +12,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Scikit-learnのPolynomialFeaturesでべき乗を求める</title>
+        <link>https://helve-blog.com/posts/python/scikit-learn-polynomialfeatures/</link>
+        <pubDate>Mon, 11 Jan 2021 00:00:00 +0900</pubDate>
+        
+        <atom:modified>Mon, 11 Jan 2021 00:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/python/scikit-learn-polynomialfeatures/</guid>
+        <description>はじめに Pythonの機械学習用ライブラリScikit-learnには、特徴量のべき乗を計算するためのPolynomialFeaturesク</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Scikit-learn</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>【Python】ネストされたリスト・辞書とdeepcopy</title>
