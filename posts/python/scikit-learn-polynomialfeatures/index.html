@@ -1616,7 +1616,7 @@
 <div class="single__infos">
   <time class="single__info" title="作成日">📅&nbsp;2021/1/11 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;4&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;5&nbsp;min read </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="WRITTEN BY">✍️&nbsp;Helve</span>
   
@@ -1705,7 +1705,7 @@
 </tr>
 </tbody>
 </table>
-<p>Pythonで以下の通りライブラリをインポートする。</p>
+<p>本記事では、Pythonで以下の通りライブラリをインポートする。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1734,10 +1734,12 @@
 <li><code>interaction_only</code>: <code>True</code>にすると、ある特徴量を2乗以上した項が出力されなくなる。デフォルトは<code>False</code>.</li>
 <li><code>include_bias</code>: <code>True</code>にすると、定数項(1)を出力する。デフォルトは<code>True</code>.</li>
 </ul>
-<p>なお、交互作用 (interaction) は異なる特徴量の積のことである。</p>
+<p>なお、交互作用 (interaction) は異なる特徴量の積のことである。<br />
+同じ特徴量のべき乗 (<code>x0**2</code>, <code>x0**3</code>など)は元の特徴量<code>x0</code>との相関が大きいため、単純に回帰式の説明変数に追加すると多重共線性の問題が発生する。<br />
+そこで、<code>interaction_only=True</code>とすることにより、同じ特徴量のべき乗を除いて、異なる特徴量の積(<code>x0*x1</code>, <code>x0*x1*x2</code>など)のみを説明変数に追加することが一般的に望ましい。</p>
 <p>PolynomialFeaturesクラスでは、主に<code>fit_transform()</code>メソッドを使う。</p>
-<p><code>PolynomialFeatures.fit_transform(X)</code><br />
-として、<code>X</code>は（サンプル数）×（特徴量の数）の2次元配列である。<br />
+<p><code>PolynomialFeatures.fit_transform(X)</code>のように用いる。<br />
+ここで、<code>X</code>は（サンプル数）×（特徴量の数）の2次元配列である。<br />
 また、戻り値は（サンプル数）×（新しい特徴量の数）の2次元配列である。<br />
 「新しい特徴量の数」は<code>degree</code>などの引数によって変化する。</p>
 <p>PolynomialFeaturesクラスの主な使い方としては、多項式回帰が挙げられる。多項式回帰とは、特徴量のn次までのべき乗を用いた回帰モデルである。3次の多項式回帰の場合、特徴量を$x$, 目的変数を$y$とすると、次式で表される。<br />
@@ -1882,8 +1884,8 @@ $y=a+bx+cx^2+dx^3$</p>
 </div><h3 id="参考">参考</h3>
 <ul>
 <li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html">sklearn.preprocessing.PolynomialFeatures — scikit-learn 0.24.0 documentation</a></li>
+<li>Andreas C. Muller, Sarah Guido著、中田 秀基訳、「Pythonではじめる機械学習 scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎」、オライリー・ジャパン、<a href="https://www.oreilly.co.jp/books/9784873117980/">O&rsquo;Reilly Japan - Pythonではじめる機械学習</a>、(2017).</li>
 <li><a href="https://www.haya-programming.com/entry/2019/07/14/043223">scikit-learnのPolynomialFeaturesで多項式と交互作用項の特徴量を作る - 静かなる名辞</a></li>
-<li>Andreas C. Muller, Sarah Guido著、中田 秀基訳、「Pythonではじめる機械学習 scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎」、オライリー・ジャパン、(2017). URL: <a href="https://www.oreilly.co.jp/books/9784873117980/">https://www.oreilly.co.jp/books/9784873117980/</a></li>
 </ul>
 
     </article>
