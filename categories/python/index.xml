@@ -12,13 +12,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Wed, 13 Jan 2021 18:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 20:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>CasADiとBONMINで混合整数非線形計画問題を解く</title>
+        <link>https://helve-blog.com/posts/python/casadi-minlp/</link>
+        <pubDate>Wed, 20 Jan 2021 20:00:00 +0900</pubDate>
+        
+        <atom:modified>Wed, 20 Jan 2021 20:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/python/casadi-minlp/</guid>
+        <description>はじめに CasADiは自動微分と非線形最適化のためのライブラリである。C++で実装されており、C++, Python, Matlab, Octaveのインターフェースを備</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>CasADi</category>
+            
+          
+            
+              <category>最適化</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>CasADiとIPOPTで非線形計画問題を解く</title>
