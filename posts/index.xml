@@ -191,7 +191,7 @@
         <link>https://helve-blog.com/posts/web-technology/hugo-zzo-katex/</link>
         <pubDate>Thu, 07 Jan 2021 00:00:00 +0900</pubDate>
         
-        <atom:modified>Thu, 07 Jan 2021 00:00:00 +0900</atom:modified>
+        <atom:modified>Sat, 23 Jan 2021 13:00:00 +0900</atom:modified>
         <guid>https://helve-blog.com/posts/web-technology/hugo-zzo-katex/</guid>
         <description>はじめに HugoとZZoテーマでKaTeXにより数式を描画する方法・注意点、およびサンプルをまとめた。Hugoのバージョンは0.79.0/e</description>
         

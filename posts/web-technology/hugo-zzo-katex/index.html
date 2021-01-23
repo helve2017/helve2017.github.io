@@ -1337,7 +1337,7 @@
 <meta name="keywords" content="Hugo">
 
 <meta name="created" content="2021-01-07T00:00:00&#43;0900">
-<meta name="modified" content="2021-01-07T00:00:00&#43;0900">
+<meta name="modified" content="2021-01-23T13:00:00&#43;0900">
 <meta property="article:published_time" content="2021-01-07T00:00:00&#43;0900">
 
 <meta name="author" content="Helve">
@@ -1396,7 +1396,7 @@
     "@type": "WebPage",
     "headline": "HugoとZZoテーマで使えるKaTeX数式サンプル",
     "datePublished": "2021-01-07T00:00:00+09:00",
-    "dateModified": "2021-01-07T00:00:00+09:00",
+    "dateModified": "2021-01-23T13:00:00+09:00",
     "url" : "https://helve-blog.com/posts/web-technology/hugo-zzo-katex/",
     "description": "HugoとZZoテーマでKaTeXにより数式を描画する方法・注意点、およびサンプルをまとめた。",
     "keywords": ["Hugo"],
@@ -1616,6 +1616,8 @@
 <div class="single__infos">
   <time class="single__info" title="作成日">📅&nbsp;2021/1/7 </time>
   
+  &nbsp;&middot;&nbsp; <time class="single__info" title="編集日"> 📝&nbsp;2021/1/23 </time>
+  
   &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;3&nbsp;min read </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="WRITTEN BY">✍️&nbsp;Helve</span>
@@ -1658,6 +1660,7 @@
         <li><a href="#複数行にまたがる数式">複数行にまたがる数式</a></li>
         <li><a href="#ベクトル">ベクトル</a></li>
         <li><a href="#行列">行列</a></li>
+        <li><a href="#波括弧">波括弧</a></li>
         <li><a href="#参考">参考</a></li>
       </ul>
     </li>
@@ -1805,6 +1808,22 @@ $$ \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} $$</p>
 </div>
 </div><p>結果<br />
 $$ \begin{bmatrix} a &amp; b \\ c &amp; d \end{bmatrix} $$</p>
+<h3 id="波括弧">波括弧</h3>
+<p>波括弧<code>{ }</code>の前には、バックスラッシュ<code>\</code>を2つ重ねる必要がある（通常のTeXでは1つだけ必要）。<br />
+自動的に括弧の大きさを調節する<code>\left</code>と<code>\right</code>を使用する場合も同じく、<code>\</code>が2つ必要。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-tex" data-lang="tex"><span class="sb">$$</span><span class="nb"> </span><span class="nv">\\</span><span class="nb">{ </span><span class="m">0</span><span class="nb">, </span><span class="m">10</span><span class="nb"> </span><span class="nv">\\</span><span class="nb">} </span><span class="s">$$</span>
+<span class="sb">$$</span><span class="nb"> </span><span class="nv">\left\\</span><span class="nb">{ </span><span class="nv">\frac</span><span class="nb">{</span><span class="m">1</span><span class="nb">}{</span><span class="m">2</span><span class="nb">} </span><span class="nv">\right\\</span><span class="nb">} </span><span class="s">$$</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>結果<br />
+$$ \{ 0, 10 \} $$<br />
+$$ \left\{ \frac{1}{2} \right\} $$</p>
 <h3 id="参考">参考</h3>
 <p>HugoのZZoテーマのKaTeX数式サンプル<br />
 <a href="https://themes.gohugo.io//theme/hugo-theme-zzo/en/posts/test-katex/">Katex support – Hugo Zzo Theme</a></p>
@@ -2579,6 +2598,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <li><a href="#複数行にまたがる数式">複数行にまたがる数式</a></li>
         <li><a href="#ベクトル">ベクトル</a></li>
         <li><a href="#行列">行列</a></li>
+        <li><a href="#波括弧">波括弧</a></li>
         <li><a href="#参考">参考</a></li>
       </ul>
     </li>
