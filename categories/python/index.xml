@@ -1063,7 +1063,7 @@
         <link>https://helve-blog.com/posts/python/scikit-learn-feature-scaling/</link>
         <pubDate>Mon, 23 Nov 2020 00:00:00 +0900</pubDate>
         
-        <atom:modified>Mon, 23 Nov 2020 00:00:00 +0900</atom:modified>
+        <atom:modified>Thu, 28 Jan 2021 20:00:00 +0900</atom:modified>
         <guid>https://helve-blog.com/posts/python/scikit-learn-feature-scaling/</guid>
         <description>はじめに Pythonの機械学習用ライブラリScikit-learnに実装されている、スケール変換について調べた。スケール変換を行うクラス3つ</description>
         
