@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Sun, 31 Jan 2021 21:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 09:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,66 @@
         
       
 
+      
+      <item>
+        <title>PythonのsubprocessでWindowsコマンドを実行</title>
+        <link>https://helve-blog.com/posts/python/subprocess-command/</link>
+        <pubDate>Sun, 07 Feb 2021 09:00:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 07 Feb 2021 09:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/python/subprocess-command/</guid>
+        <description>はじめに Pythonの標準ライブラリsubprocessを使ってWindowsのコマンドを実行する方法を解説する。 subprocess.ru</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.comimages/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Graphvizのコマンド解説</title>
+        <link>https://helve-blog.com/posts/other/graphviz-cli/</link>
+        <pubDate>Mon, 01 Feb 2021 21:00:00 +0900</pubDate>
+        
+        <atom:modified>Mon, 01 Feb 2021 21:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/other/graphviz-cli/</guid>
+        <description>はじめに GraphvizはDOTと呼ばれる言語で記述されたグラフ構造を、画像形式で出力可能なソフトウェアである。 PythonからGraphv</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Graphviz</category>
+            
+          
+        
+        
+          
+            
+              <category>その他</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>移転後のブログでGoogle AdSenseに合格した記録</title>
