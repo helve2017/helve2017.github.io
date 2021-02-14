@@ -1336,9 +1336,9 @@
 
 <meta name="keywords" content="Graphviz">
 
-<meta name="created" content="2021-02-01T21:00:00&#43;0900">
-<meta name="modified" content="2021-02-01T21:00:00&#43;0900">
-<meta property="article:published_time" content="2021-02-01T21:00:00&#43;0900">
+<meta name="created" content="2021-02-14T21:00:00&#43;0900">
+<meta name="modified" content="2021-02-14T21:00:00&#43;0900">
+<meta property="article:published_time" content="2021-02-14T21:00:00&#43;0900">
 
 <meta name="author" content="Helve">
 <meta property="article:author" content="https://helve-blog.com/posts/other/graphviz-cli/@Helve">
@@ -1386,8 +1386,8 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "headline": "Graphvizのコマンド解説",
-    "datePublished": "2021-02-01T21:00:00+09:00",
-    "dateModified": "2021-02-01T21:00:00+09:00",
+    "datePublished": "2021-02-14T21:00:00+09:00",
+    "dateModified": "2021-02-14T21:00:00+09:00",
     "url" : "https://helve-blog.com/posts/other/graphviz-cli/",
     "description": "Graphvizをコマンドラインから使用する方法を解説する。",
     "keywords": ["Graphviz"],
@@ -1616,7 +1616,7 @@
     <div class="single__meta">
       
 <div class="single__infos">
-  <time class="single__info" title="作成日">📅&nbsp;2021/2/1 </time>
+  <time class="single__info" title="作成日">📅&nbsp;2021/2/14 </time>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="読了時間"> ☕&nbsp;2&nbsp;min read </span>
   
@@ -1680,7 +1680,7 @@ PythonからGraphvizを利用するためのライブラリも開発されてお
 <h3 id="graphvizの導入">Graphvizの導入</h3>
 <p>Windowsの場合、Graphvizの公式サイトからインストーラを入手して、インストールする。<br />
 <a href="https://graphviz.org/download/">https://graphviz.org/download/</a></p>
-<p>インストール中にパスを通すか聞かれるので、通しておく。</p>
+<p>インストール中にパスを通すか聞かれるので、通しておく。以下の画面で&quot;Add Graphviz to the system PATH for all users&quot;または&quot;current user&quot;を選択する。</p>
 <p><img src="/images/graphviz/graphviz_installer.png" alt="Graphvizのインストール画面" title="Graphvizのインストール画面" /></p>
 <h3 id="graphvizのコマンド">Graphvizのコマンド</h3>
 <p>Graphvizを実行する場合、<code>dot</code>というコマンドを入力する(<code>graphviz</code>ではないことに注意)。<br />
@@ -1710,7 +1710,7 @@ PowerShell, コマンドプロンプトのどちらでも実行可能である�
 <pre class="chroma"><code class="language-ps1" data-lang="ps1"><span class="p">&gt;</span> <span class="n">dot</span> <span class="n">-Tpng</span> <span class="n">-o</span> <span class="n">test</span><span class="p">.</span><span class="n">png</span> <span class="n">test</span><span class="p">.</span><span class="n">dot</span>
 </code></pre></td></tr></table>
 </div>
-</div><p><code>-T</code>の後ろには、スペースを置かずに形式を記述する（残念ながら、出力ファイルの拡張子から、形式を自動で判定してくれない）。<br />
+</div><p><code>-T</code>の後ろに形式を記述する（間に半角スペースはあってもなくても良い。また残念ながら、出力ファイルの拡張子から、形式を自動で判定してくれない）。<br />
 実行すると、カレントディレクトリに以下のPNGファイルが出力させる。</p>
 <p><img src="/images/graphviz/test.png" alt="出力されたグラフ" title="Graphvizで出力されたグラフ" /></p>
 <p>また、指定可能なフォーマットには、bmp, gif, jpgなどがある。詳細は以下のページを参照。<br />
@@ -2089,21 +2089,14 @@ PowerShell, コマンドプロンプトのどちらでも実行可能である�
 <nav class="pagination-single">
   
     
-      <a href="https://helve-blog.com/posts/manage/pass-adsense/" class="pagination-single__left">
+      <a href="https://helve-blog.com/posts/python/subprocess-command/" class="pagination-single__left">
         <div class="pagination-single__icon">
           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M19 11H7.83l4.88-4.88c.39-.39.39-1.03 0-1.42-.39-.39-1.02-.39-1.41 0l-6.59 6.59c-.39.39-.39 1.02 0 1.41l6.59 6.59c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L7.83 13H19c.55 0 1-.45 1-1s-.45-1-1-1z"/></svg>
         </div>
-        <div class="pagination-single__left-title">移転後のブログでGoogle AdSenseに合格した記録</div>      
+        <div class="pagination-single__left-title">PythonのsubprocessでWindowsコマンドを実行</div>      
       </a>
     
     <div class="grow"></div>
-    
-      <a href="https://helve-blog.com/posts/python/subprocess-command/" class="pagination-single__right">      
-        <div class="pagination-single__right-title">PythonのsubprocessでWindowsコマンドを実行</div>
-        <div class="pagination-single__icon">
-          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
-        </div>
-      </a>
     
   
 </nav>
