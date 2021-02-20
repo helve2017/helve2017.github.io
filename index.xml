@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Sun, 14 Feb 2021 21:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2021 15:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,36 @@
         
       
 
+      
+      <item>
+        <title>C#ソフトウェアのバージョンを設定する</title>
+        <link>https://helve-blog.com/posts/csharp/software-version/</link>
+        <pubDate>Sat, 20 Feb 2021 15:00:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 20 Feb 2021 15:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/csharp/software-version/</guid>
+        <description>はじめに C#でソフトウェアのバージョンを設定する方法をまとめた（C#の開発に使用するC#自体のバージョンや、.NETのバージョンを指定する方</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.comimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>C Sharp</category>
+            
+          
+        
+        
+          
+            
+              <category>C Sharp</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Graphvizのコマンド解説</title>
