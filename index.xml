@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Sat, 20 Feb 2021 15:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 10:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,40 @@
         
       
 
+      
+      <item>
+        <title>準ニュートン法による最適化とPythonによる実装</title>
+        <link>https://helve-blog.com/posts/math/quasi-newton-method-python/</link>
+        <pubDate>Sat, 06 Mar 2021 10:30:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 06 Mar 2021 10:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/math/quasi-newton-method-python/</guid>
+        <description>はじめに 本記事では、BFGS公式の準ニュートン法について簡単に解説し、Pythonで実装した例を示す。実装は、数理工学社の「工学基礎 最適化と</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>最適化</category>
+            
+          
+        
+        
+          
+            
+              <category>数学</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>C#ソフトウェアのバージョンを設定する</title>
