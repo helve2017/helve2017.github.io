@@ -12,13 +12,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Sat, 20 Mar 2021 13:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 14:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>主要な日本メーカ（電機・機械・自動車）の技報リンクまとめ</title>
+        <link>https://helve-blog.com/posts/diary/japan-maker-technical-report/</link>
+        <pubDate>Sun, 28 Mar 2021 14:00:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 28 Mar 2021 14:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/diary/japan-maker-technical-report/</guid>
+        <description>はじめに 主要な日本メーカ（電機・機械・自動車）15社の技報へのリンクをまとめた。 簡単な紹介と、公開開始年度、更新頻度も併せて示す。ただし、「</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>技報</category>
+            
+          
+        
+        
+          
+            
+              <category>日記</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>PythonとCasADiで常微分方程式を解く</title>
