@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Mon, 04 Apr 2022 08:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Apr 2021 08:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>Python</title>
         <link>https://helve-blog.com/categories/python/</link>
-        <pubDate>Mon, 04 Apr 2022 08:30:00 +0900</pubDate>
+        <pubDate>Sun, 04 Apr 2021 08:30:00 +0900</pubDate>
         
         
         <guid>https://helve-blog.com/categories/python/</guid>
