@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>読書 on Helve Tech Blog</title>
+    <link>https://helve-blog.com/tags/%E8%AA%AD%E6%9B%B8/</link>
+    <description>Recent content in 読書 on Helve Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; 2019-{year} Helve</copyright>
+    <lastBuildDate>Sat, 10 Apr 2021 09:30:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://helve-blog.com/tags/%E8%AA%AD%E6%9B%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>資本主義の視点から考えるプログラマの給料</title>
+        <link>https://helve-blog.com/posts/diary/capitalism-programmer-salary/</link>
+        <pubDate>Sat, 10 Apr 2021 09:30:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 10 Apr 2021 09:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/diary/capitalism-programmer-salary/</guid>
+        <description>はじめに 資本主義の視点から、プログラマの給料の決まり方について考えてみた。 参考にしたのは、木暮太一の「超入門 資本主義」である。タイトルの通り</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>読書</category>
+            
+          
+        
+        
+          
+            
+              <category>日記</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

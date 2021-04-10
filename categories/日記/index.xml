@@ -12,13 +12,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Sun, 28 Mar 2021 14:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Apr 2021 09:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/categories/%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>資本主義の視点から考えるプログラマの給料</title>
+        <link>https://helve-blog.com/posts/diary/capitalism-programmer-salary/</link>
+        <pubDate>Sat, 10 Apr 2021 09:30:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 10 Apr 2021 09:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/diary/capitalism-programmer-salary/</guid>
+        <description>はじめに 資本主義の視点から、プログラマの給料の決まり方について考えてみた。 参考にしたのは、木暮太一の「超入門 資本主義」である。タイトルの通り</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>読書</category>
+            
+          
+        
+        
+          
+            
+              <category>日記</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>主要な日本メーカ（電機・機械・自動車）の技報リンクまとめ</title>
