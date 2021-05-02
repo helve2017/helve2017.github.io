@@ -12,13 +12,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2019-{year} Helve</copyright>
-    <lastBuildDate>Sat, 24 Apr 2021 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 May 2021 13:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>PythonでJSONを扱う</title>
+        <link>https://helve-blog.com/posts/python/python-json/</link>
+        <pubDate>Sun, 02 May 2021 13:30:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 02 May 2021 13:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/python/python-json/</guid>
+        <description>はじめに Pythonの標準ライブラリjsonを使って、JSONデータを辞書型データ (dict) として扱う方法をまとめた。 環境はPython 3.8.5で</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>非線形最適化ソルバIPOPTのアウトプットの読み方</title>
