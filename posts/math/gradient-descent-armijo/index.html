@@ -1667,8 +1667,9 @@
 
       <h3 id="はじめに">はじめに</h3>
 <p>本記事では、最急降下法と、Armijo条件と呼ばれる直線探索手法について簡単に解説する。</p>
-<p>数理工学社の「工学基礎　最適化とその応用」（矢部博 著）を読んだので、4章「非線形計画法I（無制約最小化問題）」から、直線探索を使った最急降下法をPythonで実装した。<br />
-最急降下法とは勾配を用いる最適化手法の1つであり、最急降下法で解の更新幅を求める手法を直線探索という。<br />
+<p>数理工学社の「工学基礎　最適化とその応用」を読んだので、4章「非線形計画法I（無制約最小化問題）」から、直線探索を使った最急降下法をPythonで実装した。</p>
+<div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;zoom: 1;overflow: hidden;"><div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4005711%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9016/90168334.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info" style="line-height:120%;zoom: 1;overflow: hidden;"><div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4005711%2F" target="_blank" >工学基礎最適化とその応用</a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail" style="margin-bottom:5px;">矢部博 数理工学社 2006年03月    </div><div class="booklink-link2" style="margin-top:10px;"><div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('//img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4005711%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('//img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4901683349" target="_blank" >Amazon</a></div>                  	              	  	  	  	      </div></div><div class="booklink-footer" style="clear: left"></div></div>
+<p>最急降下法とは勾配を用いる最適化手法の1つであり、最急降下法で解の更新幅を求める手法を直線探索という。<br />
 本記事では、これらについて簡単に解説し、Pythonで実装したコードを示す。<br />
 最後に、実装したコードを使って、簡単な2変数関数を最小化する。</p>
 <p>また、以降ではライブラリを次のようにインポートしていることを前提とする。</p>
@@ -1706,7 +1707,7 @@
 </tbody>
 </table>
 <h3 id="最急降下法">最急降下法</h3>
-<p>最急降下法 (gradient descent, または steepest descent) は、数値最適化手法の1つであり、関数の勾配の方向に解を更新して、最適解に収束させようとするものである。</p>
+<p>最急降下法 (gradient descent, またはsteepest descent) は、数値最適化手法の1つであり、関数の勾配の方向に解を更新して、最適解に収束させようとするものである。</p>
 <p>まず、$n$次元ベクトル$\boldsymbol{x} \in \mathbb{R}^n$の関数$f(\boldsymbol{x}) \in \mathbb{R}$を最小化する問題を考える。<br />
 $f(\boldsymbol{x})$は微分可能であり、勾配ベクトルは次式で表されるとする。<br />
 $$ \nabla f(\boldsymbol{x}) = \left[ \frac{\partial f}{\partial x_1}, &hellip;, \frac{\partial f}{\partial x_n} \right]^\mathrm{T} \in \mathbb{R}^n $$</p>
@@ -1744,7 +1745,7 @@ Armijo条件を満たす$\alpha$とは、目的関数$ y=f(\boldsymbol{x_k}+\alp
 <li>$ \alpha$がArmijo条件を満たすならば終了。</li>
 <li>満たさなければ$ \alpha \leftarrow \tau \alpha$と更新して3に戻る。</li>
 </ol>
-<p>上記のアルゴリズムでは、初めにある程度大きなステップ幅を与え、Armijo条件を満たすまで徐々に小さくしている。そのため、有限回の反復でArmijo条件を満たすステップ幅が得られることが保証される。</p>
+<p>上記のアルゴリズムでは、初めにある程度大きなステップ幅を与え、Armijo条件を満たすまで徐々に小さくしている。そのため、有限回の反復でArmijo条件を満たすステップ幅を得られることが保証される。</p>
 <h3 id="pythonによる実装">Pythonによる実装</h3>
 <p>Armijo条件を用いた最急降下法をPythonで実装した。<br />
 <code>fun</code>に目的関数、<code>der</code>に勾配を返す関数を与える。また、<code>minimize</code>メソッドに<code>x</code>を初期値として与えると、最急降下法を実行する。</p>
@@ -1955,6 +1956,8 @@ Armijo条件を満たす$\alpha$とは、目的関数$ y=f(\boldsymbol{x_k}+\alp
 <h3 id="参考">参考</h3>
 <p>以下のページにステップ幅を固定した最急降下法のコードがあり、実装のベースにさせて頂いた。<br />
 <a href="https://qiita.com/avengers_/items/ee467313c38b1879c097">最急降下法の概要 - Qiita</a></p>
+<p>直線探索の詳細なアルゴリスムについては、以下の書籍を参考とした。</p>
+<div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;zoom: 1;overflow: hidden;"><div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4005711%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9016/90168334.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info" style="line-height:120%;zoom: 1;overflow: hidden;"><div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4005711%2F" target="_blank" >工学基礎最適化とその応用</a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail" style="margin-bottom:5px;">矢部博 数理工学社 2006年03月    </div><div class="booklink-link2" style="margin-top:10px;"><div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('//img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4005711%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('//img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4901683349" target="_blank" >Amazon</a></div>                  	              	  	  	  	      </div></div><div class="booklink-footer" style="clear: left"></div></div>
 
     </article>
     

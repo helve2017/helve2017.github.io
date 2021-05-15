@@ -955,7 +955,7 @@
         
         <atom:modified>Thu, 03 Dec 2020 00:00:00 +0900</atom:modified>
         <guid>https://helve-blog.com/posts/python/powershell-anaconda-python/</guid>
-        <description>はじめに Windows10のPowerShellでAnaconda Pythonを使えるようになるまでに苦労したので、備忘録として残す。 Pow</description>
+        <description>はじめに Windows 10のPowerShellでAnaconda Pythonを使えるようになるまでに苦労したので、備忘録として残す。 PowerShel</description>
         
         <dc:creator>Helve</dc:creator>
         <media:content url="https://helve-blog.comimages/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>

@@ -1677,7 +1677,7 @@
 </div>
 
       <h3 id="はじめに">はじめに</h3>
-<p>Windows10のPowerShellでAnaconda Pythonを使えるようになるまでに苦労したので、備忘録として残す。<br />
+<p>Windows 10のPowerShellでAnaconda Pythonを使えるようになるまでに苦労したので、備忘録として残す。<br />
 PowerShellが起動時に読み込むスクリプトに、Anacondaが使えるようになる設定を記述しておく。なお、本記事の設定に管理者権限は不要である。</p>
 <h3 id="環境">環境</h3>
 <ul>
@@ -1685,9 +1685,8 @@ PowerShellが起動時に読み込むスクリプトに、Anacondaが使える�
 <li>Anaconda3 Ver. 2019.03</li>
 </ul>
 <h3 id="設定方法のまとめ">設定方法のまとめ</h3>
-<p>始めに、実施方法を簡潔にまとめる。<br />
-Anacondaはすでにインストールされているものとする。</p>
-<p>まず、PowerShell起動時に読み込まれるスクリプトのパスを確認するため、PowerShellを起動して以下を実行する。&quot;$&ldquo;の入力も必要。</p>
+<p>始めに、実施方法を簡潔にまとめる。Anacondaはすでにインストールされているものとする。<br />
+まず、PowerShell起動時に読み込まれるスクリプトのパスを確認するため、PowerShellを起動して以下を実行する（<code>$</code>の入力も必要）。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1707,11 +1706,11 @@ Anacondaはすでにインストールされているものとする。</p>
 <pre class="chroma"><code class="language-ps1" data-lang="ps1"><span class="n">notepad</span> <span class="nv">$profile</span>
 </code></pre></td></tr></table>
 </div>
-</div><p>を実行して、メモ帳で設定ファイルMicrosoft.PowerShell_profile.ps1を開いておく（ファイルがない場合は作成される）。</p>
-<p>次に、Windowsのスタートメニュー → アプリ一覧 → Anaconda3 (64-bit) → Anaconda Powershell Prompt を右クリックして、「その他」 →　「ファイルのある場所を開く」をクリックする。<br />
-以下のようなAnacondaのショートカットのあるフォルダがエクスプローラで開かれる。</p>
+</div><p>を実行して、メモ帳で設定ファイル<code>Microsoft.PowerShell_profile.ps1</code>を開いておく（ファイルがない場合は作成される）。</p>
+<p>次に、Windowsの「スタートメニュー」→「アプリ一覧」→「Anaconda3 (64-bit)」と進み、「Anaconda Powershell Prompt」を右クリックして、「その他」→「ファイルのある場所を開く」をクリックする。<br />
+すると、以下のようなAnacondaのショートカットのあるフォルダがエクスプローラで開かれる。</p>
 <pre><code>C:\Users\（ユーザ名）\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
-</code></pre><p>さらに、Anaconda Powershell Prompt のショートカットアイコンを右クリックして、プロパティを開くと、「リンク先」は以下のようになっているはずである（見やすいように改行した）。</p>
+</code></pre><p>さらに、Anaconda Powershell Promptのショートカットアイコンを右クリックして、プロパティを開くと、「リンク先」は以下のようになっているはずである（見やすいように改行した）。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1735,7 +1734,7 @@ Anacondaはすでにインストールされているものとする。</p>
 <pre class="chroma"><code class="language-ps1" data-lang="ps1"><span class="n">C:</span><span class="p">\</span><span class="n">Users</span><span class="p">\</span><span class="err">（</span><span class="n">ユーザ名</span><span class="err">）</span><span class="p">\</span><span class="n">Anaconda3</span><span class="p">\</span><span class="n">shell</span><span class="p">\</span><span class="n">condabin</span><span class="p">\</span><span class="n">conda-hook</span><span class="p">.</span><span class="n">ps1</span>
 </code></pre></td></tr></table>
 </div>
-</div><p>をメモ帳で開き、中身をすべて先程のMicrosoft.PowerShell_profile.ps1にコピーし、その後ろに、</p>
+</div><p>をメモ帳で開き、中身をすべて先程の<code>Microsoft.PowerShell_profile.ps1</code>にコピーし、その後ろに、</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1746,9 +1745,8 @@ Anacondaはすでにインストールされているものとする。</p>
 </div>
 </div><p>というコマンドを追加する（下図参照）。</p>
 <p><img src="/images/python/powershell_profile.png" alt="powershell_profile" title="powershell_profile" /></p>
-<p>Microsoft.PowerShell_profile.ps1とconda-hook.ps1を閉じる。</p>
-<p>PowerShellを再起動すると、スクリプトの実行が無効になっているため、Microsoft.PowerShell_profile.ps1を読み込めないとエラーが出る。<br />
-そこで、現在のユーザがスクリプトを実行できるように以下のコマンドを入力する。</p>
+<p><code>Microsoft.PowerShell_profile.ps1</code>と<code>conda-hook.ps1</code>を閉じる。</p>
+<p>PowerShellを再起動すると、スクリプトの実行が無効になっているため、Microsoft.PowerShell_profile.ps1を読み込めないとエラーが出る。そこで、現在のユーザがスクリプトを実行できるように以下のコマンドを入力する。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1778,7 +1776,7 @@ Anacondaはすでにインストールされているものとする。</p>
 <h3 id="設定の詳細">設定の詳細</h3>
 <p>上記の設定方法について補足する。</p>
 <p>Windows 7では、OSの環境変数にAnacondaのパスを追加するだけで、コマンドプロンプトからPythonを実行できた。<br />
-そのため、Explorer上でShift+右クリックでコマンドプロンプトを起動し、現在のパスでPythonスクリプトを実行することが可能であった。</p>
+そのため、エクスプローラ上でShift+右クリックでコマンドプロンプトを起動し、現在のパスでPythonスクリプトを実行することが可能であった。</p>
 <p>しかし、後述のようにWindows 10ではこの方法が使えなくなったので、代わりの方法を探した。<br />
 また、Windows 10ではShift+右クリックでPowerShellが起動するようになり、コマンドプロンプトに戻すには管理者権限が必要である。<br />
 管理者権限がない環境でも設定できるようにしたいため、PowerShellで実行できるようにする。</p>
@@ -1865,7 +1863,7 @@ Anacondaはすでにインストールされているものとする。</p>
 </code></pre></td></tr></table>
 </div>
 </div><p>そこで、Anaconda 2019.03 for Windows Installerから実装されたAnaconda Powershell Promptがどのように起動されているか確認する。<br />
-前述のように、Windowsのスタートメニュー → プログラム → Anaconda3 (64-bit) → Anaconda Powershell Prompt のプロパティの「リンク先」は以下のようになっていた。</p>
+前述のように、Windowsの「スタートメニュー」→「プログラム」→「Anaconda3 (64-bit)」→「Anaconda Powershell Prompt」のプロパティの「リンク先」は以下のようになっていた。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
@@ -1880,16 +1878,12 @@ Anacondaはすでにインストールされているものとする。</p>
 </span><span class="s2"> conda activate &#39;C:\Users\（ユーザ名）\Anaconda3&#39; &#34;</span>
 </code></pre></td></tr></table>
 </div>
-</div><p>すなわち、<br />
-powershell.exe<br />
-を起動し、<br />
-C:\Users\（ユーザ名）\Anaconda3\shell\condabin\conda-hook.ps1<br />
-のスクリプトを実行した後、<br />
-conda activate<br />
-コマンドを実行していることが分かる。</p>
+</div><p>すなわち、<code>powershell.exe</code>を起動し、<br />
+<code>C:\Users\（ユーザ名）\Anaconda3\shell\condabin\conda-hook.ps1</code><br />
+のスクリプトを実行した後、<code>conda activate</code>コマンドを実行していることが分かる。</p>
 <p>これをPowerShell起動時に実行してやれば、Anaconda Powershell Promptと同じ環境になる。<br />
 PowerShellは、起動時にprofile変数にある設定ファイル（初期設定ではMicrosoft.PowerShell_profile.ps1）を読み込みに行くので、以上のコマンドを設定ファイルに記述する。</p>
-<p>ただし、Windows10の初期設定では、セキュリティポリシーによって設定ファイルの読み込みが制限されている。<br />
+<p>ただし、Windows 10の初期設定では、セキュリティポリシーによって設定ファイルの読み込みが制限されている。<br />
 そこで、以下のコマンドでローカルにあるスクリプトを実行可能にする。<br />
 <code>-Scope CurrentUser</code>でセキュリティポリシーの変更を現在のユーザのみに限ることで、管理者権限が不要になる。</p>
 <div class="highlight"><div class="chroma">
@@ -1903,11 +1897,13 @@ PowerShellは、起動時にprofile変数にある設定ファイル（初期設
 </div><p>以上の設定で、Shift+右クリックでPythonを実行可能なPowerShellが起動するようになる。</p>
 <h3 id="参考">参考</h3>
 <p>下2つののサイトでは、パスを追加するだけでPythonを実行できるとあったが、筆者の環境では出来なかった。<br />
-2018年の記事なので、それ以降のWindows10のアップデートにより出来なくなった可能性がある。<br />
+2018年の記事なので、それ以降のWindows 10のアップデートにより出来なくなった可能性がある。<br />
 <a href="https://www.gesource.jp/weblog/?p=8254">PowerShellでAnacondaを使う方法 | 山本隆の開発日誌</a><br />
 <a href="https://qiita.com/sanokazuya0306/items/2c774f8692f7d078a683">WindowsでPythonがうまく動かないとき(PATHの設定) - Qiita</a></p>
 <p>PowerShellのセキュリティポリシーについては、以下を参照。<br />
 <a href="https://qiita.com/kikuchi/items/59f219eae2a172880ba6">PowerShellのExecutionPolicyのスコープとかについて詳しく - Qiita</a></p>
+<p>Anacondaを使って機械学習をするのであれば、オライリーの <strong>「Pythonではじめる機械学習」</strong> がオススメである。教師あり学習・教師なし学習や、特徴量選択などの基本事項が網羅されている。</p>
+<div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;zoom: 1;overflow: hidden;"><div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F14919364%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7980/9784873117980.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info" style="line-height:120%;zoom: 1;overflow: hidden;"><div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F14919364%2F" target="_blank" >Pythonではじめる機械学習</a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail" style="margin-bottom:5px;">Andreas C. Muller/中田 秀基 オライリー・ジャパン 2017年05月25日頃    </div><div class="booklink-link2" style="margin-top:10px;"><div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('//img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F14919364%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=2494818&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('//img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="//af.moshimo.com/af/c/click?a_id=2494818&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4873117984" target="_blank" >Amazon</a></div>                  	              	  	  	  	      </div></div><div class="booklink-footer" style="clear: left"></div></div>
 
     </article>
     
