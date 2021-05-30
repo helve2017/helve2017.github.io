@@ -12,11 +12,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Wed, 05 May 2021 10:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 09:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Condaの仮想環境をYAMLファイルに保存する</title>
+        <link>https://helve-blog.com/posts/python/conda-virtual-environment/</link>
+        <pubDate>Sun, 30 May 2021 09:30:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 30 May 2021 09:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/python/conda-virtual-environment/</guid>
+        <description>はじめに Condaで構築した仮想環境をYAML形式のファイルに保存し、再構築する方法を解説する。 Conda (Anaconda/Miniconda) では、仮想環境を構築して、プロジェクトご</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.comimages/icon/conda0.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://helve-blog.comimages/ogp/conda.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Conda</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>IPOPTのprint levelによる出力の詳細度合い</title>
@@ -1995,6 +2029,10 @@
           
             
               <category>PowerShell</category>
+            
+          
+            
+              <category>Conda</category>
             
           
         
