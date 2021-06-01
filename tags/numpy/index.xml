@@ -28,7 +28,7 @@
         <description>はじめに NumPyのempty関数を用いて、np.empty(0), np.empty([0, 0]), &amp;hellip;とすることで、空の（要素を持たない）任意の次元の配列</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -62,7 +62,7 @@
         <description>はじめに NumPyのfftパッケージを使って、FFT (Fast Fourier Transform, 高速フーリエ変換) による離散信号の周波数解析を行い、信号の振幅を求める。 環境 ソフト</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -96,7 +96,7 @@
         <description>はじめに NumPyで利用できる統計の関数について。 環境 ソフトウェア バージョン NumPy 1.19 最大・最小 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 &amp;gt;&amp;gt;&amp;gt;</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -130,7 +130,7 @@
         <description>はじめに NumPyで利用できる数学の関数について。 mathライブラリの数学の関数は、一般にスカラー値にしか適用できない。一方、NumPyの数</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -164,7 +164,7 @@
         <description>はじめに NumPy配列の四則演算と線形代数学の演算について。 環境 ソフトウェア バージョン NumPy 1.19 基本的な四則演算 NumPy配列同士の四則演算は、P</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -198,7 +198,7 @@
         <description>はじめに NumPy配列のコピーや次元の結合、結合・分割、ソートについて。 環境 ソフトウェア バージョン NumPy 1.19 配列のコピー =でコピーすると、コピー元</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -232,7 +232,7 @@
         <description>はじめに 作成したNumPy配列の要素などを確認する。 環境 ソフトウェア バージョン NumPy 1.19 配列の属性 作成した配列の次元数を確認する場合、 ndim属性</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -266,7 +266,7 @@
         <description>はじめに NumPyを使って基本的な配列や線形代数学でよく使われる配列を生成する。 環境 ソフトウェア バージョン NumPy 1.19 基本的な配列の作成 NumPyは</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/numpy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

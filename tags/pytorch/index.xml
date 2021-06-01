@@ -28,7 +28,7 @@
         <description>はじめに ディープラーニングのライブラリの1つであるPyTorchには、自動微分の機能が実装されている。 自動微分を使うと、関数の勾配ベクトルを</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/pytorch.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/pytorch.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

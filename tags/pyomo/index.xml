@@ -28,7 +28,7 @@
         <description>はじめに Pythonの最適化モデリングツールであるPyomoで、変数をベクトル化して扱う方法をまとめた。 変数をベクトル化することによって、変</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -62,7 +62,7 @@
         <description>はじめに PyomoはPythonで書かれた最適化モデリングツールである。Pyomoの概要と基本的な使い方は以下の記事を参照。 Pyomoで線形</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -96,7 +96,7 @@
         <description>はじめに PyomoはPythonで書かれた最適化モデリングツールである。一般に、高速な最適化ソルバはC言語などで書かれており、 最適化問題をA</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -130,7 +130,7 @@
         <description>はじめに PyomoはPythonで書かれた最適化モデリングツールである。Pyomoの基本的な使い方と、線形計画問題の解き方については以下の記</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -164,7 +164,7 @@
         <description>はじめに PyomoというPythonライブラリを使って線形計画問題を解く方法をまとめた。 本記事では、Pyomoの導入方法と、問題の記述方法に</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/pyomo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -28,7 +28,7 @@
         <description>はじめに PowerShellのGet-Processコマンドレットを使って、特定のプロセスのメモリ使用量を一定周期でロギングするコードを作成</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -58,7 +58,7 @@
         <description>はじめに Poweshellを使って、フォルダ内のファイルに連番を振ってリネームする方法をまとめた。現在のファイル名の順に連番を振る場合、以下</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -88,7 +88,7 @@
         <description>はじめに PowerShellでサブフォルダを含むファイル名を一覧表示するには、Get-ChildItem -Recurse -Name -Fileを実行する。さらに、フ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/powershell.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -118,7 +118,7 @@
         <description>はじめに Windows 10のPowerShellでAnaconda Pythonを使えるようになるまでに苦労したので、備忘録として残す。 PowerShel</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

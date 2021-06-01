@@ -28,7 +28,7 @@
         <description>はじめに ChainerのVariableクラスを使った自動微分に関する記事である。前回記事の補足として、backwardメソッドを使用すると</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -62,7 +62,7 @@
         <description>はじめに 本記事では、ChainerのVariableクラスについて簡単に解説し、1階微分、2階微分の求め方についてまとめる。 自動微分を使うと</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -96,7 +96,7 @@
         <description>はじめに 前回の記事で、ChainerのChainクラスとOptimizerを使って最小限のニューラルネットワーク (NN) を実装した。今回は、データ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -130,7 +130,7 @@
         <description>はじめに ディープラーニング用のライブラリChainerの使い方を理解するため、ChainerのChainクラスとOptimizerを使って最</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/chainer.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

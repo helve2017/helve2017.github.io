@@ -28,9 +28,9 @@
         <description>はじめに Condaで構築した仮想環境をYAML形式のファイルに保存し、再構築する方法を解説する。 Conda (Anaconda/Miniconda) では、仮想環境を構築して、プロジェクトご</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/conda0.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/conda0.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
-        <media:content url="https://helve-blog.comimages/ogp/conda.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/ogp/conda.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
@@ -62,7 +62,7 @@
         <description>はじめに Windows 10のPowerShellでAnaconda Pythonを使えるようになるまでに苦労したので、備忘録として残す。 PowerShel</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

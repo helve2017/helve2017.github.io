@@ -28,7 +28,7 @@
         <description>はじめに KerasのステートフルRNNおよび、Kerasのコードについて解説する。 ステートフルRNNは、学習バッチ間で内部状態を保持するため</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -62,7 +62,7 @@
         <description>はじめに この記事は前編の続きである。作成したgeneratorクラスを使った時系列予測の方法を解説する。 学習データ 図のように、 [-1, -1, 0, 0, 1, 1, 0,</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -96,7 +96,7 @@
         <description>はじめに 前回、KerasのRecurrentレイヤを使った時系列予測を扱った。 Kerasを使ったRNN, GRU, LSTMによる時系列予測 このとき、</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -130,7 +130,7 @@
         <description>はじめに KerasのRNN, GRU, LSTMレイヤを使って時系列データを学習させる。Kerasを初めて使われる方は、以下の記事を参考にして下さい。</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -164,7 +164,7 @@
         <description>はじめに 以前、Chainerの入門記事を書いたが、実装が容易なKerasを試してみた。ニューラルネットワーク (NN) による回帰の実装例として、正弦</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/keras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

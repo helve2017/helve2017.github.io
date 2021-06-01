@@ -28,7 +28,7 @@
         <description>はじめに Pythonの機械学習用ライブラリScikit-learnには、特徴量のべき乗を計算するためのPolynomialFeaturesク</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -62,7 +62,7 @@
         <description>はじめに 前回の記事でscikit-learnのBaggingClassifierクラスについて解説したため、本記事では実際の使用例を示す。 基</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -96,7 +96,7 @@
         <description>はじめに scikit-learnには、アンサンブル学習を行うためのBaggingClassifierが実装されている。 本記事では、Baggi</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -130,7 +130,7 @@
         <description>はじめに Pythonの機械学習ライブラリScikit-learnに実装されている主成分分析のクラスを調べた。 本記事では、PCAクラスのパラメ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -164,7 +164,7 @@
         <description>はじめに Pythonの機械学習ライブラリScikit-learnに実装されている重回帰モデルを調べた。 通常の線形回帰に、回帰係数を正則化する</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -198,7 +198,7 @@
         <description>はじめに Pythonの機械学習用ライブラリScikit-learnに実装されている、スケール変換について調べた。スケール変換を行うクラス3つ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -232,7 +232,7 @@
         <description>はじめに Scikit-learnの回帰木やランダムフォレスト回帰のクラスには、Feature Importances (FI) という説明変数の重要度を示す指標があるが、導</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scikit-learn.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

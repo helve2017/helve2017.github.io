@@ -28,7 +28,7 @@
         <description>はじめに BeautifulSoupを使ってXMLを解析(parse)する。 環境 ソフトウェア バージョン Python 3.7.4 beautifulsoup4 4.8.0 lxml 4.4.1 インストール 以下を実行して必</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

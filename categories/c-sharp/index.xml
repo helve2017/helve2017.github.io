@@ -28,7 +28,7 @@
         <description>はじめに C#でソフトウェアのバージョンを設定する方法をまとめた（C#の開発に使用するC#自体のバージョンや、.NETのバージョンを指定する方</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -58,7 +58,7 @@
         <description>はじめに C#ではstring型を使って文字列を扱うことができる。 本記事ではstringオブジェクトのプロパティとメソッド、および文字列と数値</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -92,7 +92,7 @@
         <description>はじめに 普段はPythonを使っているが、C#を勉強することになったので、 Pythonプログラマから見た相違点を備忘録として残す。 比較した言</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/csharp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

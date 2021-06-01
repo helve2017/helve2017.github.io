@@ -28,7 +28,7 @@
         <description>はじめに SciPyを使って、FIR (Finite Impulse Response, 有限インパルス応答) フィルタによる離散信号の波形を整形する。ローパス、ハイパス、バンドパス、バンドエ</description>
         
         <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.comimages/icon/scipy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://helve-blog.com/images/icon/scipy.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
