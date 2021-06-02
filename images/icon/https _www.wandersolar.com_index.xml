@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://www.wandersolar.com/index.xml</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="wrap highlight" style="-moz-tab-size: 4"><pre id="line1"><span></span><span class="pi">&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?&gt;</span><span>
+<span id="line2"></span></span><span>&lt;<span class="start-tag">rss</span> <span class="attribute-name">version</span>="<a class="attribute-value">2.0</a>" <span class="attribute-name">xmlns:atom</span>="<a class="attribute-value">http://www.w3.org/2005/Atom</a>"&gt;</span><span>
+<span id="line3"></span>  </span><span>&lt;<span class="start-tag">channel</span>&gt;</span><span>
+<span id="line4"></span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Wander Solar</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line5"></span>    </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.wandersolar.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line6"></span>    </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Recent content on Wander Solar</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line7"></span>    </span><span>&lt;<span class="start-tag">generator</span>&gt;</span><span>Hugo -- gohugo.io</span><span>&lt;/<span class="end-tag">generator</span>&gt;</span><span>
+<span id="line8"></span>    </span><span>&lt;<span class="start-tag">language</span>&gt;</span><span>jp</span><span>&lt;/<span class="end-tag">language</span>&gt;</span><span>
+<span id="line9"></span>    </span><span>&lt;<span class="start-tag">lastBuildDate</span>&gt;</span><span>Fri, 28 May 2021 15:02:25 +0900</span><span>&lt;/<span class="end-tag">lastBuildDate</span>&gt;</span><span>
+<span id="line10"></span>    
+<span id="line11"></span>	</span><span>&lt;<span class="start-tag">atom:link</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://www.wandersolar.com/index.xml">https://www.wandersolar.com/index.xml</a>" <span class="attribute-name">rel</span>="<a class="attribute-value">self</a>" <span class="attribute-name">type</span>="<a class="attribute-value">application/rss+xml</a>" <span>/</span>&gt;</span><span>
+<span id="line12"></span>    
+<span id="line13"></span>    
+<span id="line14"></span>    </span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+<span id="line15"></span>      </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>&#26032;&#22411;&#12467;&#12525;&#12490;&#12527;&#12463;&#12481;&#12531;&#25509;&#31278;&#24460;&#12395;&#24515;&#33235;&#30142;&#24739;&#12289;&#20116;&#36650;&#36984;&#25163;&#12399;&#22823;&#19976;&#22827;&#12363;&#65311;</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+<span id="line16"></span>      </span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.wandersolar.com/post/20210528/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+<span id="line17"></span>      </span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 28 May 2021 15:02:25 +0900</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+<span id="line18"></span>      
+<span id="line19"></span>      </span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>https://www.wandersolar.com/post/20210528/</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+<span id="line20"></span>      </span><span>&lt;<span class="start-tag">description</span>&gt;</span><span><span class="entity"><span>&amp;</span>lt;</span>p<span class="entity"><span>&amp;</span>gt;</span>&#12371;&#12358;&#12356;&#12358;&#12398;&#12399;&#20013;&#38263;&#26399;&#30340;&#12395;&#35211;&#12390;&#12356;&#12367;&#24517;&#35201;&#12364;&#12354;&#12426;&#12381;&#12358;&#12391;&#12377;&#12364;&#12289;&#27671;&#12395;&#12394;&#12426;&#12414;&#12377;&#12290;<span class="entity"><span>&amp;</span>lt;</span>/p<span class="entity"><span>&amp;</span>gt;</span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+<span id="line21"></span>    </span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+<span id="line22"></span>    
+<span id="line23"></span>  </span><span>&lt;/<span class="end-tag">channel</span>&gt;</span><span>
+<span id="line24"></span></span><span>&lt;/<span class="end-tag">rss</span>&gt;</span><span></span></pre></body></html>

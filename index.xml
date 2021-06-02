@@ -12,13 +12,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Mon, 07 Jun 2021 09:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 09:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
       
       
-      
         
       
         
@@ -37,37 +36,6 @@
       
         
       
-
-      
-      <item>
-        <title>【書評】佐藤靖「科学技術の現代史」| 米国のイノベーション</title>
-        <link>https://helve-blog.com/posts/diary/modern-history-of-science-and-technology/</link>
-        <pubDate>Mon, 07 Jun 2021 09:30:00 +0900</pubDate>
-        
-        <atom:modified>Mon, 07 Jun 2021 09:30:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/diary/modern-history-of-science-and-technology/</guid>
-        <description>はじめに 宇宙工学、IT技術やバイオテクノロジー等、戦後の米国におけるイノベーションは目を見張るものがある。 これらのイノベーションが起こった背</description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>読書</category>
-            
-          
-        
-        
-          
-            
-              <category>日記</category>
-            
-          
-        
-        
-      </item>
       
       <item>
         <title>Condaの仮想環境をYAMLファイルに保存する</title>
@@ -82,24 +50,8 @@
         <media:content url="https://helve-blog.com/images/icon/conda0.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         <media:content url="https://helve-blog.com/images/ogp/conda.png" medium="image"><media:title type="html">meta image</media:title></media:content>
-        
-          
-            
-              <category>Conda</category>
-            
-          
-            
-              <category>Python</category>
-            
-          
-        
-        
-          
-            
-              <category>Python</category>
-            
-          
-        
+        <category>Conda</category><category>Python</category>
+        <category>Python</category>
         
       </item>
       
@@ -116,20 +68,8 @@
         
         
         
-        
-          
-            
-              <category>最適化</category>
-            
-          
-        
-        
-          
-            
-              <category>数学</category>
-            
-          
-        
+        <category>最適化</category>
+        <category>数学</category>
         
       </item>
       
@@ -146,20 +86,8 @@
         
         
         
-        
-          
-            
-              <category>Python</category>
-            
-          
-        
-        
-          
-            
-              <category>Python</category>
-            
-          
-        
+        <category>Python</category>
+        <category>Python</category>
         
       </item>
       
@@ -176,24 +104,8 @@
         
         
         
-        
-          
-            
-              <category>Python</category>
-            
-          
-            
-              <category>最適化</category>
-            
-          
-        
-        
-          
-            
-              <category>数学</category>
-            
-          
-        
+        <category>Python</category><category>最適化</category>
+        <category>数学</category>
         
       </item>
       
@@ -210,152 +122,11 @@
         
         
         
-        
-          
-            
-              <category>読書</category>
-            
-          
-        
-        
-          
-            
-              <category>日記</category>
-            
-          
-        
+        <category>読書</category>
+        <category>日記</category>
         
       </item>
       
-      <item>
-        <title>SphinxでPython docstringからドキュメントを自動生成する</title>
-        <link>https://helve-blog.com/posts/python/sphinx-documentation/</link>
-        <pubDate>Sun, 04 Apr 2021 08:30:00 +0900</pubDate>
-        
-        <atom:modified>Sun, 04 Apr 2021 08:30:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/python/sphinx-documentation/</guid>
-        <description>はじめに ドキュメント生成ツールSphinxを使って、Pythonスクリプトのクラスや関数のdocstringからHTMLドキュメントを自動生</description>
-        
-        <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.com/images/icon/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Sphinx</category>
-            
-          
-        
-        
-          
-            
-              <category>Python</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>主要な日本メーカ（電機・機械・自動車）の技報リンクまとめ</title>
-        <link>https://helve-blog.com/posts/diary/japan-maker-technical-report/</link>
-        <pubDate>Sun, 28 Mar 2021 14:00:00 +0900</pubDate>
-        
-        <atom:modified>Sun, 28 Mar 2021 14:00:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/diary/japan-maker-technical-report/</guid>
-        <description>はじめに 主要な日本メーカ（電機・機械・自動車）15社の技報へのリンクをまとめた。 簡単な紹介と、公開開始年度、更新頻度も併せて示す。ただし、「</description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>技報</category>
-            
-          
-        
-        
-          
-            
-              <category>日記</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>PythonとCasADiで常微分方程式を解く</title>
-        <link>https://helve-blog.com/posts/python/casadi-ordinary-differential-equation/</link>
-        <pubDate>Sat, 20 Mar 2021 13:30:00 +0900</pubDate>
-        
-        <atom:modified>Sat, 20 Mar 2021 13:30:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/python/casadi-ordinary-differential-equation/</guid>
-        <description>はじめに CasADiは自動微分と非線形最適化のためのライブラリである。C++で実装されており、C++, Python, Matlab, Octaveのインターフェースを備</description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>CasADi</category>
-            
-          
-            
-              <category>微分方程式</category>
-            
-          
-        
-        
-          
-            
-              <category>Python</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>準ニュートン法による最適化とPythonによる実装</title>
-        <link>https://helve-blog.com/posts/math/quasi-newton-method-python/</link>
-        <pubDate>Sat, 06 Mar 2021 10:30:00 +0900</pubDate>
-        
-        <atom:modified>Sat, 06 Mar 2021 10:30:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/math/quasi-newton-method-python/</guid>
-        <description>はじめに 本記事では、BFGS公式の準ニュートン法について簡単に解説し、Pythonで実装した例を示す。実装は、数理工学社の「工学基礎 最適化と</description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>Python</category>
-            
-          
-            
-              <category>最適化</category>
-            
-          
-        
-        
-          
-            
-              <category>数学</category>
-            
-          
-        
-        
-      </item>
-      
-
     
   </channel>
 </rss>
