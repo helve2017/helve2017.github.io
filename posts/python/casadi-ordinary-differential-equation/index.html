@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1356,7 +1357,6 @@
 <meta property="og:url" content="https://helve-blog.com/posts/python/casadi-ordinary-differential-equation/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="Pythonと自動微分・最適化ライブラリCasADiを使って、常微分方程式解く方法をまとめた。">
-<meta property="og:updated_time" content="2021-03-20T13:30:00+09:00" />
 
 <meta name="generator" content="Hugo 0.79.0" />
 <meta name="msapplication-TileColor" content="#fff">

@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1356,7 +1357,6 @@
 <meta property="og:url" content="https://helve-blog.com/posts/python/sphinx-documentation/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="ドキュメント生成ツールSphinxを使って、Pythonスクリプトのクラスや関数のdocstringからHTMLドキュメントを自動生成する方法を解説する。">
-<meta property="og:updated_time" content="2021-04-04T08:30:00+09:00" />
 
   
     <meta property="og:image" content="https://helve-blog.com/images/icon/python.png">

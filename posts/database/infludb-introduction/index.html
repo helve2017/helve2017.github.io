@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1356,7 +1357,6 @@
 <meta property="og:url" content="https://helve-blog.com/posts/database/infludb-introduction/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="時系列データベースInfluxDBのインストール方法と、コマンドを用いた基本的な使い方について解説する。">
-<meta property="og:updated_time" content="2020-04-18T00:00:00+09:00" />
 
   
     <meta property="og:image" content="https://helve-blog.com/images/icon/influxdb.jpg">

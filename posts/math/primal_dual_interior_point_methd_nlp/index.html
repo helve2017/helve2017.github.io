@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1356,7 +1357,6 @@
 <meta property="og:url" content="https://helve-blog.com/posts/math/primal_dual_interior_point_methd_nlp/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="非線形問題に対する主双対内点法のアルゴリズムについて解説する。">
-<meta property="og:updated_time" content="2020-12-27T12:00:00+09:00" />
 
 <meta name="generator" content="Hugo 0.79.0" />
 <meta name="msapplication-TileColor" content="#fff">

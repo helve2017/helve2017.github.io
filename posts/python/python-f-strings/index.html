@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1356,7 +1357,6 @@
 <meta property="og:url" content="https://helve-blog.com/posts/python/python-f-strings/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="Python 3.6で実装されたf-stringsと呼ばれる数字や文字列の表記法を使った、整数・小数の桁数指定や指数表示の方法をまとめた。">
-<meta property="og:updated_time" content="2020-12-02T00:00:00+09:00" />
 
   
     <meta property="og:image" content="https://helve-blog.com/images/icon/python.png">

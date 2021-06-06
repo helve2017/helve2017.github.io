@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1355,7 +1356,6 @@
 <meta property="og:url" content="https://helve-blog.com/tags/sphinx/">
 <meta property="og:type" content="website">
 <meta property="og:description" content="機械学習や最適化、Pythonについて書くブログ">
-<meta property="og:updated_time" content="2021-04-04T08:30:00+09:00" />
 
 <meta name="generator" content="Hugo 0.79.0" />
 <meta name="msapplication-TileColor" content="#fff">

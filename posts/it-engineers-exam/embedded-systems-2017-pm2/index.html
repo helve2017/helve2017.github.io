@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1356,7 +1357,6 @@
 <meta property="og:url" content="https://helve-blog.com/posts/it-engineers-exam/embedded-systems-2017-pm2/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="情報処理技術者試験の高度試験の1つである、エンベデッドシステムスペシャリスト試験 (ES) の2017年午後IIの計算問題を解説する。">
-<meta property="og:updated_time" content="2020-11-30T00:00:00+09:00" />
 
 <meta name="generator" content="Hugo 0.79.0" />
 <meta name="msapplication-TileColor" content="#fff">

@@ -722,7 +722,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1322,7 +1322,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1356,7 +1357,6 @@
 <meta property="og:url" content="https://helve-blog.com/posts/math/bayesian-inference-multivariate-gaussian-distribution/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="ベイズ推論（ベイズ推定）への理解を深めるため、多次元ガウス分布の学習をPythonで実装した。">
-<meta property="og:updated_time" content="2020-11-20T00:00:00+09:00" />
 
   
     <meta property="og:image" content="https://helve-blog.com/images/icon/bayesian-inference-ml.jpg">
