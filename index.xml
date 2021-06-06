@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Sun, 30 May 2021 09:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 11:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,24 @@
       
         
       
+      
+      <item>
+        <title>HugoのZzoテーマでTwitter Card用の画像を設定する</title>
+        <link>https://helve-blog.com/posts/web-technology/hugo-zzo-twitter-card/</link>
+        <pubDate>Sun, 06 Jun 2021 11:00:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 06 Jun 2021 11:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/web-technology/hugo-zzo-twitter-card/</guid>
+        <description>はじめに HugoのZzoテーマでTwitter Cardに表示する画像を設定する方法をまとめた。 設定すると、以下のツイートのように画像が表示さ</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.com/images/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://helve-blog.com/images/ogp/hugo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <category>Hugo</category>
+        <category>Web技術</category>
+        
+      </item>
       
       <item>
         <title>Condaの仮想環境をYAMLファイルに保存する</title>
@@ -106,24 +124,6 @@
         
         <category>Python</category><category>最適化</category>
         <category>数学</category>
-        
-      </item>
-      
-      <item>
-        <title>資本主義の視点から考えるプログラマの給料</title>
-        <link>https://helve-blog.com/posts/diary/capitalism-programmer-salary/</link>
-        <pubDate>Sat, 10 Apr 2021 09:30:00 +0900</pubDate>
-        
-        <atom:modified>Sat, 10 Apr 2021 09:30:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/diary/capitalism-programmer-salary/</guid>
-        <description>はじめに 資本主義の視点から、プログラマの給料の決まり方について考えてみた。 参考にしたのは、木暮太一の「超入門 資本主義」である。タイトルの通り</description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        <category>読書</category>
-        <category>日記</category>
         
       </item>
       
