@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 11:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 22:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,24 @@
       
         
       
+      
+      <item>
+        <title>HugoのZzoテーマで記事の日付・著者の絵文字をSVGに変更する</title>
+        <link>https://helve-blog.com/posts/web-technology/hugo-zzo-article-meta-data/</link>
+        <pubDate>Mon, 14 Jun 2021 22:00:00 +0900</pubDate>
+        
+        <atom:modified>Mon, 14 Jun 2021 22:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/web-technology/hugo-zzo-article-meta-data/</guid>
+        <description>はじめに HugoのZzoテーマで記事の日付・著者に設定されている絵文字アイコンを、モダンなデザインのSVG画像に変更する方法を解説する。 記事</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.com/images/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://helve-blog.com/images/ogp/hugo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <category>Hugo</category>
+        <category>Web技術</category>
+        
+      </item>
       
       <item>
         <title>HugoのZzoテーマでTwitter Card用の画像を設定する</title>
@@ -106,24 +124,6 @@
         
         <category>Python</category>
         <category>Python</category>
-        
-      </item>
-      
-      <item>
-        <title>非線形最適化ソルバIPOPTのアウトプットの読み方</title>
-        <link>https://helve-blog.com/posts/math/ipopt-output/</link>
-        <pubDate>Sat, 24 Apr 2021 09:00:00 +0900</pubDate>
-        
-        <atom:modified>Sat, 24 Apr 2021 09:00:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/math/ipopt-output/</guid>
-        <description>はじめに 主双対内点法を用いた非線形最適化ソルバIPOPTのアウトプットの読み方を解説する。 主双対内点法については、以下の記事を参考のこと。 非</description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        <category>Python</category><category>最適化</category>
-        <category>数学</category>
         
       </item>
       

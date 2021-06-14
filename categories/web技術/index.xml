@@ -12,11 +12,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 11:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 22:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/categories/web%E6%8A%80%E8%A1%93/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>HugoのZzoテーマで記事の日付・著者の絵文字をSVGに変更する</title>
+        <link>https://helve-blog.com/posts/web-technology/hugo-zzo-article-meta-data/</link>
+        <pubDate>Mon, 14 Jun 2021 22:00:00 +0900</pubDate>
+        
+        <atom:modified>Mon, 14 Jun 2021 22:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/web-technology/hugo-zzo-article-meta-data/</guid>
+        <description>はじめに HugoのZzoテーマで記事の日付・著者に設定されている絵文字アイコンを、モダンなデザインのSVG画像に変更する方法を解説する。 記事</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.com/images/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://helve-blog.com/images/ogp/hugo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Hugo</category>
+            
+          
+        
+        
+          
+            
+              <category>Web技術</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>HugoのZzoテーマでTwitter Card用の画像を設定する</title>
@@ -116,36 +146,6 @@
         <atom:modified>Wed, 06 Jan 2021 00:00:00 +0900</atom:modified>
         <guid>https://helve-blog.com/posts/web-technology/hugo-google-analytics-tag/</guid>
         <description>はじめに Hugoで生成するサイトでアクセス数を測定するためには、Google Analytics (以下GAとする) などの外部サービスを利用する必要がある。この</description>
-        
-        <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.com/images/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>Hugo</category>
-            
-          
-        
-        
-          
-            
-              <category>Web技術</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Hugoでよく使うコマンド一覧</title>
-        <link>https://helve-blog.com/posts/web-technology/hugo-commands/</link>
-        <pubDate>Mon, 04 Jan 2021 00:00:00 +0900</pubDate>
-        
-        <atom:modified>Mon, 04 Jan 2021 00:00:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/web-technology/hugo-commands/</guid>
-        <description>はじめに 静的サイトジェネレータHugoで使用頻度の高いコマンドをまとめた。 Hugoのバージョンは0.79.0/extendedである。 新しい</description>
         
         <dc:creator>Helve</dc:creator>
         <media:content url="https://helve-blog.com/images/icon/hugo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
