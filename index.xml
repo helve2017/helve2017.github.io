@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 22:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jun 2021 08:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,24 @@
       
         
       
+      
+      <item>
+        <title>GitHub Actionsに入門する</title>
+        <link>https://helve-blog.com/posts/git/introduction-to-github-actions/</link>
+        <pubDate>Sat, 19 Jun 2021 08:30:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 19 Jun 2021 08:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/git/introduction-to-github-actions/</guid>
+        <description>はじめに GitHub Actionsでトリガーイベントを設定し、簡単なLinuコマンドを実行する方法をまとめた。 GitHubには、処理を自動実行するGi</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.com/images/icon/github.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://helve-blog.com/images/ogp/github.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <category>Git</category>
+        <category>Git</category>
+        
+      </item>
       
       <item>
         <title>HugoのZzoテーマで記事の日付・著者の絵文字をSVGに変更する</title>
@@ -106,24 +124,6 @@
         
         <category>最適化</category>
         <category>数学</category>
-        
-      </item>
-      
-      <item>
-        <title>PythonでJSONを扱う</title>
-        <link>https://helve-blog.com/posts/python/python-json/</link>
-        <pubDate>Sun, 02 May 2021 13:30:00 +0900</pubDate>
-        
-        <atom:modified>Sun, 02 May 2021 13:30:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/python/python-json/</guid>
-        <description>はじめに Pythonの標準ライブラリjsonを使って、JSONデータを辞書型データ (dict) として扱う方法をまとめた。 環境はPython 3.8.5で</description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        <category>Python</category>
-        <category>Python</category>
         
       </item>
       

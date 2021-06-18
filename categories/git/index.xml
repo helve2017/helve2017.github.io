@@ -12,11 +12,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jun 2021 08:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/categories/git/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>GitHub Actionsに入門する</title>
+        <link>https://helve-blog.com/posts/git/introduction-to-github-actions/</link>
+        <pubDate>Sat, 19 Jun 2021 08:30:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 19 Jun 2021 08:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/git/introduction-to-github-actions/</guid>
+        <description>はじめに GitHub Actionsでトリガーイベントを設定し、簡単なLinuコマンドを実行する方法をまとめた。 GitHubには、処理を自動実行するGi</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.com/images/icon/github.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://helve-blog.com/images/ogp/github.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Gitコマンドの個人的まとめ（ブランチ利用なし）</title>
