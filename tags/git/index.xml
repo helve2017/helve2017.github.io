@@ -12,11 +12,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Sat, 19 Jun 2021 08:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jun 2021 20:30:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>GitHub ActionsでPythonスクリプトを実行する</title>
+        <link>https://helve-blog.com/posts/git/github-actions-python/</link>
+        <pubDate>Sat, 26 Jun 2021 20:30:00 +0900</pubDate>
+        
+        <atom:modified>Sat, 26 Jun 2021 20:30:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/git/github-actions-python/</guid>
+        <description>はじめに GitHub Actionsでリポジトリ内のPythonスクリプトを自動実行する方法をまとめた。 GitHubにはあらかじめ設定しておいた処理を自</description>
+        
+        <dc:creator>Helve</dc:creator>
+        <media:content url="https://helve-blog.com/images/icon/github.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        <media:content url="https://helve-blog.com/images/ogp/github.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+          
+            
+              <category>Git</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>GitHub Actionsに入門する</title>
