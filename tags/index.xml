@@ -12,11 +12,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Sat, 26 Jun 2021 20:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 18:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hugo</title>
+        <link>https://helve-blog.com/tags/hugo/</link>
+        <pubDate>Sun, 27 Jun 2021 18:00:00 +0900</pubDate>
+        
+        
+        <guid>https://helve-blog.com/tags/hugo/</guid>
+        <description></description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Git</title>
@@ -43,24 +61,6 @@
         
         
         <guid>https://helve-blog.com/tags/python/</guid>
-        <description></description>
-        
-        <dc:creator>Helve</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Hugo</title>
-        <link>https://helve-blog.com/tags/hugo/</link>
-        <pubDate>Mon, 14 Jun 2021 22:00:00 +0900</pubDate>
-        
-        
-        <guid>https://helve-blog.com/tags/hugo/</guid>
         <description></description>
         
         <dc:creator>Helve</dc:creator>

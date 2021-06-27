@@ -4,7 +4,37 @@
   
   <url>
     <loc>https://helve-blog.com/categories/</loc>
-    <lastmod>2021-06-26T20:30:00+09:00</lastmod>
+    <lastmod>2021-06-27T18:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/</loc>
+    <lastmod>2021-06-27T18:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/tags/hugo/</loc>
+    <lastmod>2021-06-27T18:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/posts/</loc>
+    <lastmod>2021-06-27T18:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/tags/</loc>
+    <lastmod>2021-06-27T18:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/categories/web%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2021-06-27T18:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://helve-blog.com/posts/web-technology/static-site-blogmura/</loc>
+    <lastmod>2021-06-27T18:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -23,22 +53,7 @@
   </url>
   
   <url>
-    <loc>https://helve-blog.com/</loc>
-    <lastmod>2021-06-26T20:30:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://helve-blog.com/posts/</loc>
-    <lastmod>2021-06-26T20:30:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://helve-blog.com/tags/python/</loc>
-    <lastmod>2021-06-26T20:30:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://helve-blog.com/tags/</loc>
     <lastmod>2021-06-26T20:30:00+09:00</lastmod>
   </url>
   
@@ -48,17 +63,7 @@
   </url>
   
   <url>
-    <loc>https://helve-blog.com/tags/hugo/</loc>
-    <lastmod>2021-06-14T22:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://helve-blog.com/posts/web-technology/hugo-zzo-article-meta-data/</loc>
-    <lastmod>2021-06-14T22:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://helve-blog.com/categories/web%E6%8A%80%E8%A1%93/</loc>
     <lastmod>2021-06-14T22:00:00+09:00</lastmod>
   </url>
   

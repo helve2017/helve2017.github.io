@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2019-2021 Helve</copyright>
-    <lastBuildDate>Sat, 26 Jun 2021 20:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 18:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://helve-blog.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,6 +36,24 @@
       
         
       
+      
+      <item>
+        <title>静的サイトをブログ村に登録するならNetlifyがオススメ</title>
+        <link>https://helve-blog.com/posts/web-technology/static-site-blogmura/</link>
+        <pubDate>Sun, 27 Jun 2021 18:00:00 +0900</pubDate>
+        
+        <atom:modified>Sun, 27 Jun 2021 18:00:00 +0900</atom:modified>
+        <guid>https://helve-blog.com/posts/web-technology/static-site-blogmura/</guid>
+        <description>はじめに 静的サイトをブログ村に登録する場合、Netlify以外のホスティングサービスを使用すると最新記事を取得してくれない可能性がある。 この</description>
+        
+        <dc:creator>Helve</dc:creator>
+        
+        
+        
+        <category>Hugo</category>
+        <category>Web技術</category>
+        
+      </item>
       
       <item>
         <title>GitHub ActionsでPythonスクリプトを実行する</title>
@@ -106,24 +124,6 @@
         <media:content url="https://helve-blog.com/images/ogp/hugo.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         <category>Hugo</category>
         <category>Web技術</category>
-        
-      </item>
-      
-      <item>
-        <title>Condaの仮想環境をYAMLファイルに保存する</title>
-        <link>https://helve-blog.com/posts/python/conda-virtual-environment/</link>
-        <pubDate>Sun, 30 May 2021 09:30:00 +0900</pubDate>
-        
-        <atom:modified>Sun, 30 May 2021 09:30:00 +0900</atom:modified>
-        <guid>https://helve-blog.com/posts/python/conda-virtual-environment/</guid>
-        <description>はじめに Condaで構築した仮想環境をYAML形式のファイルに保存し、再構築する方法を解説する。 Conda (Anaconda/Miniconda) では、仮想環境を構築して、プロジェクトご</description>
-        
-        <dc:creator>Helve</dc:creator>
-        <media:content url="https://helve-blog.com/images/icon/conda0.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        <media:content url="https://helve-blog.com/images/ogp/conda.png" medium="image"><media:title type="html">meta image</media:title></media:content>
-        <category>Conda</category><category>Python</category>
-        <category>Python</category>
         
       </item>
       
